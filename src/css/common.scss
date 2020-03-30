@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans-Bold.ttf");
+  font-weight: 700;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/fonts/OpenSans-SemiBold.ttf");
+  font-weight: 600;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("/assets/fonts/SegoeUI.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("/assets/fonts/SegoeUI-Italic.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("/assets/fonts/SegoeUI-Bold.ttf");
+  font-weight: 700;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "TT Barrels";
+  src: url("/assets/fonts/TTBarrels-DemiBoldItalic.ttf");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TT Barrels";
+  src: url("/assets/fonts/TTBarrels-DemiBold.ttf");
+  font-weight: 600;
+  font-style: bold;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+}
+
+.title {
+  font-family: "TT Barrels", sans-serif;
+  font-weight: 600;
+}
+
+.title--blue {
+  color: $color-pure-blue;
+  font-style: italic;
+}
+
+.btn {
+  @include reset-btn();
+}
+
+.blue-btn {
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  max-width: 299px;
+  width: 100%;
+  background: linear-gradient(180deg, #3268fb 0%, #1438c6 100%);
+  border-radius: 8px;
+  color: $color-pure-white;
+  text-transform: uppercase;
+
+  &::before {
+    display: block;
+    content: "";
+    position: absolute;
+    width: 95%;
+    height: 100%;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #3268fb 0%, #112c95 100%);
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+    transition: top 0.4s;
+  }
+
+  &:hover::before {
+    top: 0;
+  }
+}

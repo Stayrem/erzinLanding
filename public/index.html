@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap&subset=cyrillic" rel="stylesheet">
+</head>
+
+<body>
+  <section class="welcome">
+    <div class="container">
+      <div class="row">
+        <header class="header">
+          <div class="header__inner col">
+            <a href="#" class="logo header__logo ">
+              <img src="/assets/img/logo.png" alt="" class="logo__img">
+            </a>
+            <nav class="nav">
+              <ul class="nav__list">
+                <li class="nav__list-item"><a href="#services" class="nav__list-link">Услуги</a></li>
+                <li class="nav__list-item"><a href="#portfolio" class="nav__list-link">Портфолио</a></li>
+                <li class="nav__list-item"><a href="#testimonials" class="nav__list-link">Отзывы</a></li>
+                <li class="nav__list-item"><a href="#contacts" class="nav__list-link">Контакты</a></li>
+              </ul>
+            </nav>
+            <a href="" class="header__phone-link phone-link">+7 (926) 935-79-66</a>
+          </div>
+        </header>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 welcome__content">
+          <h1 class="title welcome__title">Профессиональные юридические услуги <span class="title--blue">в Москве</span></h1>
+          <p class="welcome__subtitle">Юридическая помощь в экономических спорах.<br> Ваш личный представитель в суде.</p>
+          <button class="btn welcome__btn blue-btn">Заказать звонок</button>
+          <p class="welcome__subtext">Бесплатный анализ перспектив дела</p>
+        </div>
+        <div class="col-sm-6 welcome__image-wrapper">
+          <img src="/assets/img/person.png" alt="Фотография Юриста" class="welcome__img">
+          <div class="welcome__tooltip">
+            <span class="welcome__tooltip-title">Алексей Эрзин</span>
+            <span class="welcome__tooltip-subtitle">Квалифицированный юрист</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <main class="main">
+    <section class="solutions section">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-5">
+            <p class="section__title title">Простое решение сложных вопросов в деле о <span class="title--blue">банкротстве</span></p>
+            <p class="section__text">Полный спектр услуг по представлению интересов кредитора в деле о банкротстве:</p>
+            <ul class="section__list">
+              <li class="section__list-item">
+                <button data-slide-index="0" class="js-deal-change-slide deal__pagination-btn deal__pagination-btn--active">Заявления о включении требования в реестр требований кредиторов</button> 
+              </li>
+              <li class="section__list-item"> 
+                <button data-slide-index="1" class="js-deal-change-slide deal__pagination-btn">Заявления о включении требования в реестр требований кредиторов с представлением интересов в суде</button> 
+              </li>
+              <li class="section__list-item">
+                <button data-slide-index="2" class="js-deal-change-slide deal__pagination-btn">Полное сопровождение дела о банкротстве</button>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-7">
+            <div class="solutions__deal deal__container swiper-container">
+              <div class="swiper-wrapper deal__wrapper">
+                  <div class="swiper-slide deal__item">
+                    <p class="deal__title">Заявления о включении требования в реестр требований кредиторов</p>
+                    <p class="deal__text">Подготовим и подадим проработанное заявление о включении в реестр требований кредиторов.</p>
+                    <div class="deal__price-item">
+                      <span class="deal__price-title">15 000 рублей</span>
+                      <span class="deal__price__subtitle">если долг просужен</span>
+                    </div>
+                    <div class="deal__price-item">
+                      <span class="deal__price-title">30 000 рублей</span>
+                      <span class="deal__price__subtitle">если долг подтверждается документально, не был предметом рассмотрения в суде</span>
+                    </div>
+                    <button class="btn blue-btn deal__btn">Заказать консультацию</button>
+                  </div>
+                  <div class="swiper-slide deal__item">
+                    <p class="deal__title">Заявления о включении требования в реестр требований кредиторов</p>
+                    <p class="deal__text">Подготовим и подадим проработанное заявление о включении в реестр требований кредиторов.</p>
+                    <div class="deal__price-item">
+                      <span class="deal__price-title">25 000 рублей</span>
+                      <span class="deal__price__subtitle">если долг просужен</span>
+                    </div>
+                    <div class="deal__price-item">
+                      <span class="deal__price-title">30 000 рублей</span>
+                      <span class="deal__price__subtitle">если долг подтверждается документально, не был предметом рассмотрения в суде</span>
+                    </div>
+                    <button class="btn blue-btn deal__btn">Заказать консультацию</button>
+                  </div>
+                  <div class="swiper-slide deal__item">
+                    <p class="deal__title">Полное сопровождение банкротства со стороны Кредиторов</p>
+                    <p class="deal__text">Подготовим и подад</p>
+                    <div class="deal__price-item">
+                      <span class="deal__price-title">5 000 рублей</span>
+                      <span class="deal__price__subtitle">если долг просужен</span>
+                    </div>
+                    <div class="deal__price-item">
+                      <span class="deal__price-title">2 000 рублей</span>
+                      <span class="deal__price__subtitle">если долг подтверждается документально, не был предметом рассмотрения в суде</span>
+                    </div>
+                    <button class="btn blue-btn deal__btn">Заказать консультацию</button>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+<script type="text/javascript" src="/vendors.js"></script><script type="text/javascript" src="/bundle.js"></script></body>
+
+</html>
