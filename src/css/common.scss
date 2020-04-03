@@ -64,21 +64,30 @@
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
+  box-sizing: inherit !important;
 }
 
 html {
-  box-sizing: border-box;
+  box-sizing: border-box !important;
 }
 
 body {
   font-family: "Open Sans", sans-serif;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .title {
   font-family: "TT Barrels", sans-serif;
   font-weight: 600;
+}
+
+.title--middle {
+  font-size: 30px;
+}
+
+.title--white {
+  color: $color-pure-white;
 }
 
 .title--blue {

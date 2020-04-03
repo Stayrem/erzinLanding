@@ -1,0 +1,136 @@
+.tariffs {
+  background-image: url("/public/assets/img/tarifs-bg.jpg");
+}
+
+.tariffs__title {
+  text-align: center;
+  line-height: 1.5;
+}
+
+.tariffs-slider {
+  position: relative;
+}
+
+.tariffs-slider__item {
+  background-color: $color-pure-white;
+  border-radius: 10px;
+  padding: 5px;
+  width: 255px;
+}
+
+.tariffs-slider__inner {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  border-radius: 10px;
+  border: 1px dashed $color-gray-white;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+}
+
+.tariffs-slider__item-icon {
+  align-self: center;
+}
+
+.tariffs-slider__item-title {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.tariffs-slider__item-text {
+  text-align: center;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-bottom: 15px;
+}
+
+.tariffs-slider__item-price {
+  color: $color-pure-blue;
+  font-family: "TT Barrels", sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.tariffs-slider__item-subprice {
+  text-align: center;
+  color: $color-light-gray-3;
+  font-family: "TT Barrels", sans-serif;
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.tariffs-slider__item-btn {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 15px;
+  border-radius: 4px;
+  border: 1px solid $color-pure-blue;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: $color-pure-blue;
+    color: $color-pure-white;
+  }
+}
+
+.tariffs-slider__wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.tariffs-slider__pagination {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 20px;
+
+  .swiper-pagination-bullet {
+    background-color: $color-pure-white;
+    opacity: 0.8;
+  }
+
+  .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: $color-pure-blue;
+    opacity: unset;
+  }
+}
+
+@media (max-width: $media-desktop) {
+  .tariffs-slider__wrapper {
+    justify-content: unset;
+  }
+}
+
+@media (max-width: $media-mobile) {
+  .tariffs__title {
+    text-align: left;
+  }
+
+  .tariffs-slider__item-text {
+    font-size: 12px;
+  }
+
+  .tariffs-slider__item-btn {
+    font-size: 13px;
+  }
+
+  .tariffs-slider__wrapper {
+    justify-content: unset;
+  }
+
+  .tariffs-slider__container {
+    padding: 0 20px;
+  }
+}
