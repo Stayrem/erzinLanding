@@ -120,3 +120,25 @@ body {
     top: 0;
   }
 }
+
+.swiper-pagination-bullet {
+  margin-right: 20px;
+  width: 10px;
+  height: 10px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: $media-mobile) {
+  .mobile-hide {
+    display: none !important;
+  }
+}
+
+@media (min-width: $media-mobile) {
+  .desktop-hide {
+    display: none !important;
+  }
+}

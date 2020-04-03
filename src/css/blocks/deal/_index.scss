@@ -1,12 +1,18 @@
-.deal__container {
+.deal {
+  padding: 10px;
   max-width: 445px;
   width: 100%;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.16);
   border-radius: 10px;
   background-color: $color-pure-white;
   margin-left: auto;
+}
+
+.deal__container {
+  border-radius: 10px;
   margin-right: unset;
   padding: 5px;
+  border: 2px dashed $color-gray-white;
 }
 
 .deal__item {
@@ -15,7 +21,6 @@
   flex-direction: column;
   align-items: center;
   padding: 35px 25px;
-  border: 2px dashed $color-gray-white;
   background-color: $color-pure-white;
   border-radius: 8px;
   margin-right: 10px;
@@ -95,5 +100,35 @@
 
   &::before {
     background-color: $color-pure-blue;
+  }
+}
+
+@media (max-width: $media-mobile) {
+  .deal {
+    max-width: 350px;
+    width: 100%;
+    margin-right: auto;
+  }
+
+  .deal__title {
+    font-size: 16px;
+  }
+
+  .deal__text {
+    font-size: 12px;
+  }
+
+  .deal__price-title {
+    font-size: 28px;
+  }
+
+  .deal__price__subtitle {
+    font-size: 12px;
+  }
+
+  .deal-pagination {
+    margin-top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
   }
 }

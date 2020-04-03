@@ -4,13 +4,21 @@
 }
 
 .header__logo {
-  margin-right: 60px;
+  margin-right: 0;
 }
 
 .header__inner {
   display: flex;
+  align-items: flex-end;
 }
 
 .header__phone-link {
   margin-left: auto;
+  text-align: right;
+}
+
+@media (max-width: $media-laptop) {
+  .header__logo {
+    margin-right: 0;
+  }
 }

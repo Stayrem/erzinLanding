@@ -19,3 +19,9 @@
     opacity: 1;
   }
 }
+
+@media (max-width: $media-laptop) {
+  .nav__list-item {
+    margin-right: 37px;
+  }
+}
