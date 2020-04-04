@@ -19,7 +19,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, '/public'),
     filename: '[name].js',
-    publicPath: isProd ? PUBLIC :`/`,
+    publicPath: isProd ? `./` : `/`,
   },
   module: { // where we defined file patterns and their loaders
     rules: [{
@@ -70,9 +70,6 @@ module.exports = {
     ]),
     new MiniCssExtractPlugin({
       filename: '[name].css',
-      options: {
-        publicPath: '/public/path/to/',
-      },
     }),
   ],
   devServer: {
