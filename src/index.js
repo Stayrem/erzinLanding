@@ -4,8 +4,10 @@ import "normalize.css/normalize.css";
 import "./css/index.scss";
 import dealSlider from './js/dealSlider.js';
 import tariffsSlider from './js/tariffsSlider.js';
+import examplesSlider from './js/examplesSlider.js';
 
 document.addEventListener(`DOMContentLoaded`, () => {
     dealSlider();
     tariffsSlider();
+    examplesSlider();
 });

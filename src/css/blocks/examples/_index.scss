@@ -1,0 +1,240 @@
+.examples__results {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.examples__results-item {
+  margin-right: 15px;
+  max-width: 160px;
+  width: 100%;
+
+  &:last-child {
+    margin-right: 0;
+    margin-left: 15px;
+    max-width: 260px;
+  }
+}
+
+.examples__results-title {
+  color: $color-pure-blue;
+  font-family: "TT Barrels", sans-serif;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+
+.examples__results-subtitle {
+  color: $color-pure-gray;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.examples__list {
+  @include reset-list();
+}
+
+.example__list-title {
+  padding-left: 35px;
+}
+
+.examples__list-item {
+  display: flex;
+  flex-direction: column;
+  color: $color-pure-gray;
+  font-size: 16px;
+  margin-bottom: 20px;
+  position: relative;
+  line-height: 1;
+}
+
+.examples__list-btn {
+  color: $color-light-black;
+  font-family: "TT Barrels", sans-serif;
+  font-style: italic;
+  font-size: 34px;
+  font-weight: 600;
+  padding-top: 8px;
+  text-align: left;
+  display: flex;
+
+  &:focus {
+    outline: none;
+  }
+
+  &:focus::before {
+    color: $color-pure-blue;
+  }
+
+  &::before {
+    content: attr(data-counter);
+    font-family: "TT Barrels", sans-serif;
+    font-style: italic;
+    left: 0;
+    bottom: 0;
+    display: block;
+    color: $color-pure-gray-2;
+    font-size: 34px;
+    font-weight: 600;
+    margin-right: 20px;
+  }
+}
+
+.examples__slider {
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.16);
+  border-radius: 10px;
+  background-color: $color-pure-white;
+  padding: 5px;
+}
+
+.examples__slider-container {
+  border-radius: 10px;
+  border: 1px dashed $color-gray-white;
+  padding: 30px 25px;
+}
+
+.examples__slider-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.examples__slider-title {
+  margin: 0;
+  color: $color-light-black;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.examples__slider-text {
+  color: $color-pure-gray;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.examples__slider-link {
+  @include reset-link();
+  color: $color-pure-blue;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  display: flex;
+
+  &::after {
+    content: "";
+    margin-left: 10px;
+    width: 18px;
+    height: 22px;
+    background-image: url("./assets/img/pdf-icon.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+.examples__slider-text--title {
+  color: $color-light-black;
+}
+
+.examples__list-item--active .examples__list-btn {
+  &::before {
+    color: $color-pure-blue;
+  }
+}
+
+.examples-pagination {
+  display: none;
+}
+
+@media (max-width: $media-desktop) {
+  .examples__list-btn {
+    font-size: 30px;
+
+    &::before {
+      font-size: 30px;
+    }
+  }
+
+  .example__list-title {
+    font-size: 16px;
+  }
+
+  .section__text {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+  .examples__slider-text {
+    font-size: 14px;
+  }
+
+  .examples__slider-title {
+    font-size: 16px;
+  }
+
+  .examples__slider-link {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: $media-laptop) {
+  .examples__slider-row {
+    flex-direction: column;
+  }
+
+  .examples__slider-title {
+    margin-bottom: 5px;
+  }
+}
+
+@media (max-width: $media-mobile) {
+  .examples__slider-container {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .examples__slider-row {
+    margin-bottom: 15px;
+  }
+
+  .examples__results {
+    margin-bottom: 50px;
+  }
+
+  .examples__results-title {
+    font-size: 24px;
+  }
+
+  .examples__slider-text {
+    font-size: 12px;
+  }
+
+  .examples__results-subtitle {
+    font-size: 12px;
+  }
+
+  .examples__list-item {
+    display: none;
+  }
+
+  .examples__list-item--active {
+    display: block;
+  }
+
+  .examples-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+}

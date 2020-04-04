@@ -148,11 +148,8 @@
 }
 
 .tariffs-slider__pagination {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
   margin-top: 20px;
-  display: none;
+  width: 100%;
 
   .swiper-pagination-bullet {
     background-color: $color-pure-white;
