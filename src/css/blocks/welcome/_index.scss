@@ -1,5 +1,5 @@
 .welcome {
-  background-image: url("/assets/img/BG.jpg");
+  background-image: url("./assets/img/BG.jpg");
   background-size: cover;
   overflow: hidden;
 }
@@ -53,7 +53,7 @@
     width: 53px;
     height: 52px;
     opacity: 0.5;
-    background-image: url("/assets/img/welcome-arrow.png");
+    background-image: url("./assets/img/welcome-arrow.png");
     top: -50px;
     right: -50px;
   }

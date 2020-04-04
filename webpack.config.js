@@ -3,44 +3,49 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin'); // Require html-webpack-plugin plugin
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
+const isProd = process.env.NODE_ENV === 'production';
 
 const SRC = path.join(__dirname, "src");
-const PUBLIC = path.join(__dirname, "public");
+const PUBLIC = path.join(__dirname, "/public");
 const ASSETS = path.join(PUBLIC, "assets");
 
 module.exports = {
-  mode: 'development',
+  mode: isProd ? `production` : `development`,
   context: SRC,
   entry: {
     bundle: path.join(__dirname, "/src/index.js"),
-  }, // webpack entry point. Module to start building dependency graph
+  },
   output: {
-    path: path.join(__dirname, '/public'), // Folder to store generated bundle
-    filename: '[name].js', // Name of generated bundle after build
-    publicPath: '/' // public URL of the output directory when referenced in a browser
+    path: path.join(__dirname, '/public'),
+    filename: '[name].js',
+    publicPath: isProd ? PUBLIC :`/`,
   },
   module: { // where we defined file patterns and their loaders
     rules: [{
         test: /\.(js|jsx)$/i,
-        exclude: '/node_modules/',
-        use: ['babel-loader'],
+        exclude: `/node_modules/`,
+        use: [`babel-loader`],
       },
       {
         test: /\.(css|scss)$/,
+        exclude: `/node_modules/`,
         use: [{
-            loader: "style-loader" // creates style nodes from JS strings
+            loader: isProd ? MiniCssExtractPlugin.loader : `style-loader`,
         }, {
-            loader: "css-loader" // translates CSS into CommonJS
+            loader: `css-loader`,
+            options: {
+              url: false,
+            },
         }, {
-            loader: "sass-loader" // compiles Sass to CSS
+            loader: `sass-loader` // compiles Sass to CSS
         }]
       },
       {
         test: /\.(png|jpe?g|gif|svg)$/i,
         use: [{
-          loader: 'file-loader',
+          loader: `file-loader`,
+          
         }, ],
       },
     ]
@@ -65,12 +70,14 @@ module.exports = {
     ]),
     new MiniCssExtractPlugin({
       filename: '[name].css',
+      options: {
+        publicPath: '/public/path/to/',
+      },
     }),
   ],
-  devServer: { // configuration for webpack-dev-server
-    port: 7700, // port to run dev-server
-    writeToDisk: true,
-
+  devServer: {
+    port: 7700,
+    writeToDisk: isProd ? true : false,
   },
   optimization: {
     noEmitOnErrors: true,
