@@ -140,6 +140,12 @@ body {
   }
 }
 
+@media (min-width: $media-desktop) {
+  .js-transition-off {
+    transform: unset !important;
+  }
+}
+
 @media (max-width: $media-mobile) {
   .mobile-hide {
     display: none !important;

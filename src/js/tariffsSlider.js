@@ -7,13 +7,11 @@ const tariffsSlider = () => {
   const initSlider = (arg = false) => {
     const slider = new Swiper ('.tariffs-slider__container', {
       breakpoints: {
-        992: {
-          
+        992: {          
           slidesPerView: 'auto',
           centeredSlides: true,
           spaceBetween: 30,
           effect: `slide`,
-          centeredSlides: true,
           pagination: {
             el: '.tariffs-slider__pagination',
             clickable: true,
@@ -46,16 +44,15 @@ const tariffsSlider = () => {
         }
       }
     );
-    arg ? slider.destroy() : slider.slideTo(1, 600);
+    window.slider = slider;
+    arg ? slider.destroy(true, true) : slider.slideTo(1, 600);
   }
   const onResize = () => {
     screenWidth = window.innerWidth;
     if ( screenWidth <= mediaWidth.DESKTOP) {
-      console.log(screenWidth, '<' , mediaWidth.DESKTOP)
       initSlider();
     } else {
       console.log(screenWidth, '>' , mediaWidth.DESKTOP)
-
       initSlider(true);
     }
   }

@@ -103,6 +103,24 @@
   }
 }
 
+@media (max-width: $media-desktop) {
+  .deal__item {
+    padding: 20px 15px;
+  }
+
+  .deal__text {
+    font-size: 14px;
+  }
+
+  .deal__price-title {
+    font-size: 24px;
+  }
+
+  .deal__price__subtitle {
+    font-size: 14px;
+  }
+}
+
 @media (max-width: $media-mobile) {
   .deal {
     max-width: 350px;

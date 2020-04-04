@@ -52,12 +52,69 @@
 }
 
 .tariffs-slider__item-price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: $color-pure-blue;
   font-family: "TT Barrels", sans-serif;
   font-style: italic;
   font-size: 20px;
   font-weight: 600;
   text-align: center;
+}
+
+.tariffs-slider__item-tooltip {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $color-gray-white-2;
+  color: $color-light-gray;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 10px;
+  margin-left: 10px;
+  position: relative;
+
+  &::before {
+    content: "Цена зависит от количества кредиторов в деле, суммы требований и иных обстоятельств.";
+    display: none;
+    position: absolute;
+    padding: 10px;
+    background-color: $color-pure-white;
+    width: 150px;
+    color: $color-light-black;
+    font-size: 12px;
+    line-height: 12px;
+    border-radius: 10px;
+    left: 50%;
+    bottom: -100%;
+    transform: translateY(100%) translateX(-50%);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.16);
+  }
+
+  &::after {
+    content: "";
+    display: none;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 9px solid $color-pure-white;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.16);
+    bottom: -100%;
+  }
+
+  &:hover::after {
+    display: block;
+  }
+
+  &:hover::before {
+    display: block;
+  }
 }
 
 .tariffs-slider__item-subprice {
@@ -95,6 +152,7 @@
   left: 50%;
   transform: translateX(-50%);
   margin-top: 20px;
+  display: none;
 
   .swiper-pagination-bullet {
     background-color: $color-pure-white;
@@ -111,9 +169,17 @@
   .tariffs-slider__wrapper {
     justify-content: unset;
   }
+
+  .tariffs-slider__pagination {
+    display: block;
+  }
 }
 
 @media (max-width: $media-mobile) {
+  .tariffs {
+    padding-bottom: 80px;
+  }
+
   .tariffs__title {
     text-align: left;
   }
