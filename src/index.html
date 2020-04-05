@@ -14,7 +14,7 @@
         <header class="header">
           <div class="header__inner">
             <a href="#" class="logo header__logo col-md-3 col-6">
-              <img loading="lazy" src="assets/img/logo.png" alt="" class="logo__img">
+              <img loading="lazy" data-src="assets/img/logo.png" alt="" class="logo__img lazyload">
             </a>
             <nav class="nav mobile-hide col-md-6 col">
               <ul class="nav__list">
@@ -36,9 +36,9 @@
           <p class="welcome__subtext">Бесплатный анализ перспектив дела</p>
         </div>
         <div class="col-12 col-md-5 welcome__image-wrapper">
-          <img loading="lazy" src="assets/img/person.png" alt="Фотография Юриста" class="welcome__img mobile-hide">
+          <img loading="lazy" data-src="assets/img/person.png" alt="Фотография Юриста" class="welcome__img mobile-hide lazyload">
           <div class="welcome__tooltip">
-            <img loading="lazy" src="assets/img/person-mobile.png" alt="Фотография Юриста" class="welcome__tooltip-img desktop-hide">
+            <img loading="lazy" data-src="assets/img/person-mobile.png" alt="Фотография Юриста" class="welcome__tooltip-img desktop-hide lazyload">
             <span class="welcome__tooltip-title">Алексей Эрзин</span>
             <span class="welcome__tooltip-subtitle">Квалифицированный юрист</span>
           </div>
@@ -132,7 +132,7 @@
             <div class="swiper-wrapper tariffs-slider__wrapper js-transition-off">
               <div class="swiper-slide tariffs-slider__item">
                 <div class="tariffs-slider__inner">
-                  <img loading="lazy" src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon">
+                  <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
                   <p class="tariffs-slider__item-title">Наблюдение</p>
                   <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
                   <span class="tariffs-slider__item-price">
@@ -145,7 +145,7 @@
               </div>
               <div class="swiper-slide tariffs-slider__item">
                 <div class="tariffs-slider__inner">
-                  <img loading="lazy" src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon">
+                  <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
                   <p class="tariffs-slider__item-title">Наблюдение</p>
                   <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
                   <span class="tariffs-slider__item-price">
@@ -158,7 +158,7 @@
               </div>
               <div class="swiper-slide tariffs-slider__item">
                 <div class="tariffs-slider__inner">
-                  <img loading="lazy" src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon">
+                  <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
                   <p class="tariffs-slider__item-title">Наблюдение</p>
                   <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
                   <span class="tariffs-slider__item-price">
@@ -171,7 +171,7 @@
               </div>
               <div class="swiper-slide tariffs-slider__item">
                 <div class="tariffs-slider__inner">
-                  <img loading="lazy" src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon">
+                  <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
                   <p class="tariffs-slider__item-title">Наблюдение</p>
                   <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
                   <span class="tariffs-slider__item-price">
@@ -209,7 +209,7 @@
             </div>
           </div>
           <div class="col-md-6 col-12">
-            <img loading="lazy" src="assets/img/result-doc.png" alt="Подписаный договор" class="result__img">
+            <img loading="lazy" data-src="assets/img/result-doc.png" alt="Подписаный договор" class="result__img lazyload">
           </div>
         </div>
         <div class="row">
@@ -345,6 +345,40 @@
             <div class="examples-pagination"></div>
           </div>
         </div>
+      </div>
+    </section>
+    <section class="testimonials section">
+      <div class="container">
+        <div class="row">
+          <div class=" title testimonials__title col">Письма <span class="title--blue">благодарности</span> от наших клиентов и партнёров</div>
+        </div>
+      </div>
+      <div class="testimonials__slider">
+          <div class="swiper-container testimonials__slider-container">
+            <div class="swiper-wrapper testimonials__slider-wrapper">
+              <div class="swiper-slide testimonials__slider-slide">
+                <a href="#" class="testimonials__slider-slide-link">
+                  <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-1.jpg" alt="Письмо благодарности">
+                </a>
+              </div>
+              <div class="swiper-slide testimonials__slider-slide">
+                <a href="#" class="testimonials__slider-slide-link">
+                  <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-2.jpg" alt="Письмо благодарности">
+                </a>
+              </div>
+              <div class="swiper-slide testimonials__slider-slide">
+                <a href="#" class="testimonials__slider-slide-link">
+                  <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-3.jpg" alt="Письмо благодарности">
+                </a>
+              </div>
+              <div class="swiper-slide testimonials__slider-slide">
+                <a href="#" class="testimonials__slider-slide-link">
+                  <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-4.jpg" alt="Письмо благодарности">
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="testimonials-pagination swiper-pagination"></div>
       </div>
     </section>
   </main>
