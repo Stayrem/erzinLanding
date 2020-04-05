@@ -12,6 +12,8 @@
   "dependencies": {
     "bootstrap-4-grid": "^3.4.0",
     "eslint": "^6.8.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-webpack-plugin": "^2.4.2",
     "lodash": "^4.17.15",
     "normalize.css": "^8.0.1",
     "swiper": "^5.3.6"

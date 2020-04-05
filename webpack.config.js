@@ -3,6 +3,9 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin'); // Require html-webpack-plugin plugin
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const ImageminPlugin = require('imagemin-webpack-plugin').default;
+const imageminMozjpeg = require('imagemin-mozjpeg');
+
 
 const isProd = process.env.NODE_ENV === 'production';
 
@@ -43,16 +46,16 @@ module.exports = {
       },
       {
         test: /\.(png|jpe?g|gif|svg)$/i,
+        exclude: `/node_modules/`,
         use: [{
           loader: `file-loader`,
-          
-        }, ],
+          },
+       ],
       },
     ]
   },
-  plugins: [ // Array of plugins to apply to build chunk
+  plugins: [
     new HtmlWebpackPlugin({
-      //filename: `index.html`,
       template: path.join(__dirname, "/src/index.html"),
     }),
     new CopyWebpackPlugin([{
@@ -68,6 +71,17 @@ module.exports = {
         to: path.join(ASSETS, 'fonts')
       },
     ]),
+    new ImageminPlugin({
+      disable: !isProd, // Disable during development
+      test: /\.(jpe?g|png|gif|svg)$/i,
+      pngquant: ({quality: 80}),
+      plugins: [
+        imageminMozjpeg({
+          quality: 80,
+          progressive: true
+        })
+      ]
+    }),
     new MiniCssExtractPlugin({
       filename: '[name].css',
     }),
