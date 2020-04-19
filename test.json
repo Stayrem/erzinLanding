@@ -1,0 +1,2265 @@
+{
+    "success": true,
+    "message": [{
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "12-0879\/2016"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 22.07.2016"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0442\u0430\u0442\u044c\u044f: \u0421\u0442. 12.17 "
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: "
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0435\u043c\u043e\u0435 \u043b\u0438\u0446\u043e: \u041e\u0432\u0441\u044f\u043d\u043d\u0438\u043a\u043e\u0432 \u0410.\u0413."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e, 22.07.2016"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0417\u044e\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0435\u043b\u0430 \u043e\u0431 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u044f\u0445 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041d\u0430\u0434\u0437\u043e\u0440\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u0418\u0441\u0430\u043a\u043e\u0432 \u0414.\u0412."
+        },
+        "ssdId": "90ac8402-bd23-491c-88ba-3079cef32147",
+        "url": "\/rs\/zyuzinskij\/services\/cases\/appeal-admin\/details\/90ac8402-bd23-491c-88ba-3079cef32147",
+        "participantsWithCategories": {
+            "\u041f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0435\u043c\u043e\u0435 \u043b\u0438\u0446\u043e": "\u041e\u0432\u0441\u044f\u043d\u043d\u0438\u043a\u043e\u0432 \u0410.\u0413."
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u041e\u0431 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u043f\u0440\u0430\u0432\u043e\u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u044f\u0445"
+        },
+        "groupCode": "DA",
+        "courtCode": "77RS0009",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 12-0879\/2016"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0417\u044e\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 15.08.2016"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "11-18712\/2012"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 23.08.2012"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 209 - \u041f\u0440\u043e\u0447\u0438\u0435 \u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u0434\u0435\u043b\u0430"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u0433\u0430\u0444\u043e\u043d\u043e\u0432 \u0411.\u0412., \u0418\u0441\u0442\u0435\u0446: \u0410\u041a\u0411 \"\u0420\u043e\u0441\u0435\u0432\u0440\u043e\u0431\u0430\u043d\u043a\" ."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 (\u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435) \u0431\u0435\u0437 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f, 28.08.2012"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u041a\u0443\u043d\u0446\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434 (\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432 \u0410.\u0412.)"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "c0a61f5c-0f79-456e-9baa-883ab0677e57",
+        "url": "\/mgs\/services\/cases\/appeal-civil\/details\/c0a61f5c-0f79-456e-9baa-883ab0677e57",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0410\u041a\u0411 \"\u0420\u043e\u0441\u0435\u0432\u0440\u043e\u0431\u0430\u043d\u043a\" .",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u0433\u0430\u0444\u043e\u043d\u043e\u0432 \u0411.\u0412."
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CA",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 11-18712\/2012"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 28.08.2012"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u043d\u0438\u0436\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: 1196"
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-0338\/2020"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 27.09.2019"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 169 - \u041e \u0437\u0430\u0449\u0438\u0442\u0435 \u043f\u0440\u0430\u0432 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0435\u0439 - \u0438\u0437 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u0432 \u0441\u0444\u0435\u0440\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438, \u0443\u0441\u043b\u0443\u0433, \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041e \"\u041c\u041a\u041c\", \u0418\u0441\u0442\u0435\u0446: \u0428\u0438\u0440\u043e\u043a\u043e\u0432\u0430 \u0415.\u041b."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e - \u041d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u043e\u043c \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u0438\u0437\u044b"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0438\u043c\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u041c\u0443\u0441\u0441\u0430\u043a\u0430\u0435\u0432 \u0425.\u0418."
+        },
+        "ssdId": "0f478b86-ff15-42be-88f5-417922ad7888",
+        "url": "\/rs\/simonovskij\/services\/cases\/civil\/details\/0f478b86-ff15-42be-88f5-417922ad7888",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0428\u0438\u0440\u043e\u043a\u043e\u0432\u0430 \u0415.\u041b.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041e \"\u041c\u041a\u041c\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0024",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-0338\/2020 (02-6705\/2019) ~ \u041c-7936\/2019"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0421\u0438\u043c\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "11-18930\/2013"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 18.06.2013"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 209 - \u041f\u0440\u043e\u0447\u0438\u0435 \u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u0434\u0435\u043b\u0430"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0410\u0445\u043c\u0435\u0434\u043e\u0432\u0430 \u0413.\u0413., \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0423\u0424\u0421\u0421\u041f \u0420\u043e\u0441\u0441\u0438\u0438"
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0442\u043c\u0435\u043d\u0438\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 (\u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435) \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e, \u0434\u0435\u043b\u043e \u0432\u0435\u0440\u043d\u0443\u0442\u044c \u043d\u0430 \u043d\u043e\u0432\u043e\u0435 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u0435, 20.06.2013"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u041a\u0443\u043d\u0446\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434 (\u0417\u0430\u043a\u043e\u0432\u043e\u0440\u043e\u0442\u043d\u044b\u0439 \u0412.\u0418.)"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "ca511f07-ef1a-40fb-9e08-1b201f8637c1",
+        "url": "\/mgs\/services\/cases\/appeal-civil\/details\/ca511f07-ef1a-40fb-9e08-1b201f8637c1",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0410\u0445\u043c\u0435\u0434\u043e\u0432\u0430 \u0413.\u0413.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0423\u0424\u0421\u0421\u041f \u0420\u043e\u0441\u0441\u0438\u0438"
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CA",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 11-18930\/2013"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 20.06.2013"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u043d\u0438\u0436\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: \u0447\/\u0436"
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-3873\/2017"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u043b\u0443: 18.04.2017"
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 01.02.2017"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 203 - \u0418\u0441\u043a\u0438 \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0441\u0443\u043c\u043c \u043f\u043e \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443 \u0437\u0430\u0439\u043c\u0430, \u043a\u0440\u0435\u0434\u0438\u0442\u043d\u043e\u043c\u0443 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0411\u0430\u043d\u043a \"\u0412\u0422\u0411-24\" (\u041f\u0410\u041e), \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041c\u0430\u043a\u0430\u0440\u043e\u0432\u0430 \u041e.\u0412."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u0423\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u043e, 31.03.2017"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u041a\u0443\u0434\u0440\u044f\u0432\u0446\u0435\u0432\u0430 \u041c.\u0412."
+        },
+        "ssdId": "3d6b918d-8b1f-4ff1-8233-5c9248972ecd",
+        "url": "\/rs\/meshchanskij\/services\/cases\/civil\/details\/3d6b918d-8b1f-4ff1-8233-5c9248972ecd",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0411\u0430\u043d\u043a \"\u0412\u0422\u0411-24\" (\u041f\u0410\u041e)",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432\u0430 \u041e.\u0412."
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0016",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-3873\/2017 ~ \u041c-2739\/2017"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 31.03.2017"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "33-24192\/2014"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 25.09.2014"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 209 - \u041f\u0440\u043e\u0447\u0438\u0435 \u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u0434\u0435\u043b\u0430"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0421\u0430\u043f\u0440\u044b\u043a\u0438\u043d \u0410.\u0421."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 (\u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435) \u0431\u0435\u0437 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f, 26.09.2014"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434 (\u041c\u0443\u0441\u0438\u043c\u043e\u0432\u0438\u0447 \u041c.\u0412.)"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "11d36ca3-b136-4de6-af70-6096343b0510",
+        "url": "\/mgs\/services\/cases\/appeal-civil\/details\/11d36ca3-b136-4de6-af70-6096343b0510",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0421\u0430\u043f\u0440\u044b\u043a\u0438\u043d \u0410.\u0421."
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CA",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 33-24192\/2014"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 26.09.2014"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u043d\u0438\u0436\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: 52"
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "01-0129\/2019"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u043b\u0443: 23.04.2019"
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 01.04.2019"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: \u041a\u0440\u0430\u0436\u0430"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u041e\u0431\u0432\u0438\u043d\u044f\u0435\u043c\u044b\u0439: \u041b\u044b\u0441\u043a\u043e\u0432 \u041f.\u0410."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0442. 158, \u0427. 2, \u043f. \u0432;"
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u0412\u0441\u0442\u0443\u043f\u0438\u043b\u043e \u0432 \u0441\u0438\u043b\u0443, 23.04.2019"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u0422\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0423\u0433\u043e\u043b\u043e\u0432\u043d\u044b\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u041b\u0430\u0440\u0438\u043d\u0430 \u041d.\u0413."
+        },
+        "ssdId": "bc4dbd07-2e31-4e18-b950-95c2e9fb1586",
+        "url": "\/rs\/taganskij\/services\/cases\/criminal\/details\/bc4dbd07-2e31-4e18-b950-95c2e9fb1586",
+        "participantsWithCategories": {
+            "\u041e\u0431\u0432\u0438\u043d\u044f\u0435\u043c\u044b\u0439": "\u041b\u044b\u0441\u043a\u043e\u0432 \u041f.\u0410. (\u0421\u0442. 158, \u0427. 2, \u043f. \u0432;)"
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0423\u0433\u043e\u043b\u043e\u0432\u043d\u043e\u0435"
+        },
+        "groupCode": "US",
+        "courtCode": "77RS0026",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 01-0129\/2019"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0422\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 12.04.2019"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "7-8829\/2016"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 19.07.2016"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0442\u0430\u0442\u044c\u044f: \u0421\u0442. 18.8, \u0427.3 "
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: "
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0435\u043c\u043e\u0435 \u043b\u0438\u0446\u043e: \u0425\u0443\u0441\u0435\u0439\u043d\u043e\u0432 \u041c."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u0417\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043e, 20.07.2016"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0435\u0440\u0435\u0441\u043c\u043e\u0442\u0440 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0439 \u0438 \u0440\u0435\u0448\u0435\u043d\u0438\u0439 \u043f\u043e \u0434\u0435\u043b\u0430\u043c \u043e\u0431 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u043f\u0440\u0430\u0432\u043e\u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u044f\u0445, \u043d\u0435 \u0432\u0441\u0442\u0443\u043f\u0438\u0432\u0448\u0438\u0445 \u0432 \u0437\u0430\u043a\u043e\u043d\u043d\u0443\u044e \u0441\u0438\u043b\u0443"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u0413\u0440\u0438\u0448\u0438\u043d \u0414.\u0412."
+        },
+        "ssdId": "942696e3-7444-4d34-8c2f-160f101457ee",
+        "url": "\/mgs\/services\/cases\/review-not-yet\/details\/942696e3-7444-4d34-8c2f-160f101457ee",
+        "participantsWithCategories": {
+            "\u041f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0435\u043c\u043e\u0435 \u043b\u0438\u0446\u043e": "\u0425\u0443\u0441\u0435\u0439\u043d\u043e\u0432 \u041c."
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u041e\u0431 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u043f\u0440\u0430\u0432\u043e\u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u044f\u0445"
+        },
+        "groupCode": "DX",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 7-8829\/2016"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 20.07.2016"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-4412\/2018"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u043b\u0443: 28.12.2018"
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 03.10.2018"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 209 - \u041f\u0440\u043e\u0447\u0438\u0435 \u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u0434\u0435\u043b\u0430"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0413\u0421\u041a \"\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0435\u0446\", \u0418\u0441\u0442\u0435\u0446: \u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432 \u041f.\u0410."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u0423\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u043e, 26.11.2018"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0411\u0443\u0442\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0430 \u0415.\u0415."
+        },
+        "ssdId": "db33a3d9-db08-45af-bbee-39c52294fab6",
+        "url": "\/rs\/butyrskij\/services\/cases\/civil\/details\/db33a3d9-db08-45af-bbee-39c52294fab6",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432 \u041f.\u0410.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0413\u0421\u041a \"\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0435\u0446\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0003",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-4412\/2018 ~ \u041c-48202\/2018"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0411\u0443\u0442\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 26.11.2018"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-3865\/2018"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u043b\u0443: 11.08.2018"
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 14.05.2018"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 209 - \u041f\u0440\u043e\u0447\u0438\u0435 \u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u0434\u0435\u043b\u0430"
+        },
+        "actDocuments": [],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": false,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041f\u0413\u041a \"\u0412\u0435\u043d\u0435\u0432\u0441\u043a\u0438\u0439\", \u0418\u0441\u0442\u0435\u0446: \u041a\u0430\u0440\u0435\u0432 \u0412."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u0423\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u043e, 29.06.2018"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0417\u044e\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u0421\u043e\u043b\u0435\u043d\u0430\u044f \u0422.\u0412."
+        },
+        "ssdId": "c0ca4480-1a35-419b-8669-7aee44294d30",
+        "url": "\/rs\/zyuzinskij\/services\/cases\/civil\/details\/c0ca4480-1a35-419b-8669-7aee44294d30",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u041a\u0430\u0440\u0435\u0432 \u0412.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u041f\u0413\u041a \"\u0412\u0435\u043d\u0435\u0432\u0441\u043a\u0438\u0439\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0009",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-3865\/2018 ~ \u041c-3408\/2018"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0417\u044e\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 29.06.2018"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }],
+    "total": "3763352",
+    "query": [],
+    "queryStats": [],
+    "suggestedQuery": []
+}
+C: \Users\ 89857 > curl - d "q=2018"
+"https://www.mos-gorsud.ru/search.php" {
+    "success": true,
+    "message": [{
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-4891\/2018"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u043b\u0443: 18.04.2019"
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 17.06.2018"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 118 - \u0421\u043f\u043e\u0440\u044b, \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u0435 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0432 \u0434\u043e\u043b\u0435\u0432\u043e\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435 \u043c\u043d\u043e\u0433\u043e\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u043d\u044b\u0445 \u0434\u043e\u043c\u043e\u0432 \u0438 \u0438\u043d\u044b\u0445 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438"
+        },
+        "actDocuments": [{
+            "ssdId": "59d8919c-6b91-421e-9159-4cab1e24e365",
+            "objectSsdId": "0d8b4702-f108-462e-bb5f-dc94a5715f55",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 ",
+            "url": "\/rs\/tushinskij\/cases\/docs\/content\/59d8919c-6b91-421e-9159-4cab1e24e365",
+            "barcode": "77OS0000D003924245",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u043c\u0443 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ...  \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ... , \u0447\u0442\u043e 11.05.2016 \u043c\u0435\u0436\u0434\u0443 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u043c \u043f\u043e \u043f\u043e\u0440\u0443\u0447\u0435\u043d\u0438\u044e \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d ...  29.03.2018 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f\u043c\u0438 \u043e\u0442\u0432\u0435\u0442\u0447\u0438\u043a\u0430 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u0438\u0441\u0442\u0446\u0443 \u0431\u044b\u043b\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043e \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u0442\u044c \u0430\u043a\u0442 ... , \u0447\u0442\u043e 11.05.2016 \u043c\u0435\u0436\u0434\u0443 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0433\u043e \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u0430\u0433\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2019-04-18"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "PA003 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 "
+            }
+        }, {
+            "ssdId": "6382b717-9ba4-4b26-b1ea-3b9dd7dac9ca",
+            "objectSsdId": "0d8b4702-f108-462e-bb5f-dc94a5715f55",
+            "name": "\u0420\u0435\u0448\u0435\u043d\u0438\u0435",
+            "url": "\/rs\/tushinskij\/cases\/docs\/content\/6382b717-9ba4-4b26-b1ea-3b9dd7dac9ca",
+            "barcode": "77RS0029D000455060",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u0418\u041c\u0415\u041d\u0415\u041c \u0420\u041e\u0421\u0421\u0418\u0419\u0421\u041a\u041e\u0419 \u0424\u0415\u0414\u0415\u0420\u0410\u0426\u0418\u0418 03 \u043e\u043a\u0442\u044f\u0431\u0440\u044f <span class=\"highlight\">2018<\/span> \u0433\u043e\u0434\u0430 \u0433\u043e\u0440\u043e\u0434 \u041c\u043e\u0441\u043a\u0432\u0430 \u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 ...  \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u043c\u0443 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ...  \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u043c\u0443 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2018-10-03"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "AC001 \u0420\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041e\u041e\u041e \"\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u0421\u043f\u0430\u0440\u0442\u0430\u043a\", \u0418\u0441\u0442\u0435\u0446: \u0428\u0438\u0440\u043e\u043a\u043e\u0432 \u0412.\u041f., \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\""
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", , "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0442\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u0438, 03.10.2018"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u041a\u0443\u043b\u0438\u0447\u0435\u0432 \u0420.\u0411."
+        },
+        "ssdId": "0d8b4702-f108-462e-bb5f-dc94a5715f55",
+        "url": "\/rs\/tushinskij\/services\/cases\/civil\/details\/0d8b4702-f108-462e-bb5f-dc94a5715f55",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0428\u0438\u0440\u043e\u043a\u043e\u0432 \u0412.\u041f.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e 2018\", \u041e\u041e\u041e \"\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u0421\u043f\u0430\u0440\u0442\u0430\u043a\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0029",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-4891\/2018 ~ \u041c-3146\/2018"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 03.10.2018"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u0432\u044b\u0448\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: 33-17329\/2019"
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-5804\/2018"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u043b\u0443: 12.03.2019"
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 29.08.2018"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 118 - \u0421\u043f\u043e\u0440\u044b, \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u0435 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0432 \u0434\u043e\u043b\u0435\u0432\u043e\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435 \u043c\u043d\u043e\u0433\u043e\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u043d\u044b\u0445 \u0434\u043e\u043c\u043e\u0432 \u0438 \u0438\u043d\u044b\u0445 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438"
+        },
+        "actDocuments": [{
+            "ssdId": "8633c96b-778e-43cc-b67e-966e46264967",
+            "objectSsdId": "a973bfd0-6117-4fc7-b48c-538b5a6961fe",
+            "name": "\u041c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "url": "\/rs\/tushinskij\/cases\/docs\/content\/8633c96b-778e-43cc-b67e-966e46264967",
+            "barcode": "77RS0029D000466194",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ... \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u00ab\u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0438 \u043e\u0434\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0435\u0433\u043e \u0430\u043a\u0442\u0430 \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c ... \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u00ab\u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0438 \u043e\u0434\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0435\u0433\u043e \u0430\u043a\u0442\u0430 \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c ... \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u00ab\u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0438 \u043e\u0434\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0435\u0433\u043e \u0430\u043a\u0442\u0430 \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c ... \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u00ab\u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0438 \u043e\u0434\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0435\u0433\u043e \u0430\u043a\u0442\u0430  ... \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u00ab\u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0438 \u043e\u0434\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0435\u0433\u043e \u0430\u043a\u0442\u0430  ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2018-11-02"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "CE001 \u041c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0421\u0430\u043c\u043e\u0439\u043b\u043e\u0432\u0430 \u041c.\u0415., \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\", \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041e\u041e\u041e \"\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u0421\u043f\u0430\u0440\u0442\u0430\u043a\""
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", , "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0442\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u0438, 22.10.2018"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u0424\u0435\u0434\u0438\u043d\u0430 \u041e.\u0410."
+        },
+        "ssdId": "a973bfd0-6117-4fc7-b48c-538b5a6961fe",
+        "url": "\/rs\/tushinskij\/services\/cases\/civil\/details\/a973bfd0-6117-4fc7-b48c-538b5a6961fe",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0421\u0430\u043c\u043e\u0439\u043b\u043e\u0432\u0430 \u041c.\u0415.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e 2018\", \u041e\u041e\u041e \"\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u0421\u043f\u0430\u0440\u0442\u0430\u043a\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0029",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-5804\/2018 ~ \u041c-4626\/2018"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 22.10.2018"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u0432\u044b\u0448\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: 33-10492\/2019"
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "33-25379\/2018"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 14.06.2018"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 169 - \u041e \u0437\u0430\u0449\u0438\u0442\u0435 \u043f\u0440\u0430\u0432 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0435\u0439 - \u0438\u0437 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u0432 \u0441\u0444\u0435\u0440\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438, \u0443\u0441\u043b\u0443\u0433, \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442"
+        },
+        "actDocuments": [{
+            "ssdId": "d1af0792-0606-4c53-89cd-9618979393c6",
+            "objectSsdId": "ae2bc1bf-3e87-481e-b16c-f9ba4ead22dc",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 ",
+            "url": "\/mgs\/cases\/docs\/content\/d1af0792-0606-4c53-89cd-9618979393c6",
+            "barcode": "77OS0000D003485192",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u2116 33-25379 \u0410\u041f\u0415\u041b\u041b\u042f\u0426\u0418\u041e\u041d\u041d\u041e\u0415 \u041e\u041f\u0420\u0415\u0414\u0415\u041b\u0415\u041d\u0418\u0415 14 \u0438\u044e\u043d\u044f <span class=\"highlight\">2018<\/span> \u0433\u043e\u0434\u0430 \u0433. \u041c\u043e\u0441\u043a\u0432\u0430 \u0421\u0443\u0434\u0435\u0431\u043d\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u0433\u0438\u044f ... \u0433. \u041c\u043e\u0441\u043a\u0432\u044b \u043e\u0442 25 \u043c\u0430\u044f <span class=\"highlight\">2018<\/span> \u0433\u043e\u0434\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e: \u0412 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0438 ...  \u043a \u041e\u041e\u041e \u00ab\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u043c\u0438\u0440\u0430 \u0424\u0418\u0424\u0410 <span class=\"highlight\">2018<\/span> \u0411\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0438\u043b\u0435\u0442\u043e\u0432\u00bb \u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0438 \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u044b\u043c\u0438 ...  \u043a \u041e\u041e\u041e \u00ab\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u041c\u0438\u0440\u0430 \u0424\u0418\u0424\u0410 <span class=\"highlight\">2018<\/span> \u0411\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0438\u043b\u0435\u0442\u043e\u0432\u00bb \u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0438 \u043f\u0440\u0430\u0432\u0438\u043b ...  \u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u043c\u0438\u0440\u0430 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443 \u0424\u0418\u0424\u0410 <span class=\"highlight\">2018<\/span>, \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u044b\u043c\u0438. \u0421\u0443\u0434\u043e\u043c \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u043d\u043e\u0435 \u0432\u044b\u0448\u0435 ... \u0433. \u041c\u043e\u0441\u043a\u0432\u044b \u043e\u0442 25 \u043c\u0430\u044f <span class=\"highlight\">2018<\/span> \u0433\u043e\u0434\u0430 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0431\u0435\u0437 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u0447\u0430\u0441\u0442\u043d\u0443\u044e ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2018-06-14"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "PA003 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 "
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0410\u0434\u0432\u043e\u043a\u0430\u0442 \u0413\u0430\u043d\u0438\u043d \u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447, \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041e\u041e\u041e \"\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u041c\u0438\u0440\u0430 \u0424\u0418\u0424\u0410 <span class=\"highlight\">2018<\/span>\""
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 (\u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435) \u0431\u0435\u0437 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f, 14.06.2018"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434 (\u0411\u0438\u0440\u044e\u043a\u043e\u0432\u0430 \u0421.\u041d.)"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "ae2bc1bf-3e87-481e-b16c-f9ba4ead22dc",
+        "url": "\/mgs\/services\/cases\/appeal-civil\/details\/ae2bc1bf-3e87-481e-b16c-f9ba4ead22dc",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0410\u0434\u0432\u043e\u043a\u0430\u0442 \u0413\u0430\u043d\u0438\u043d \u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u041e\u041e\u041e \"\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u041c\u0438\u0440\u0430 \u0424\u0418\u0424\u0410 2018\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CA",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 33-25379\/2018"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 14.06.2018"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u043d\u0438\u0436\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: \u041c-1592\/2018"
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "4\u0433-14352\/2018"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 19.10.2018"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u0431\u0436\u0430\u043b\u0443\u0435\u043c\u043e\u0433\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u044f: 15.12.2017"
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 209 - \u041f\u0440\u043e\u0447\u0438\u0435 \u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u0434\u0435\u043b\u0430"
+        },
+        "actDocuments": [{
+            "ssdId": "0d2c4751-f244-4ca4-8f3b-7ad98279e49b",
+            "objectSsdId": "45f0bad7-27ff-49bd-94e0-1d090c88847b",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0431 \u043e\u0442\u043a\u0430\u0437\u0435 \u0432 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u0434\u0435\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f \u043f\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443 \u0432 \u0441\u0443\u0434 \u043a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 (\u043d\u0430\u0434\u0437\u043e\u0440\u043d\u043e\u0439) \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438",
+            "url": "\/mgs\/cases\/docs\/content\/0d2c4751-f244-4ca4-8f3b-7ad98279e49b",
+            "barcode": "77OS0000D003717700",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": "\u2116 4\u0433\/3-14352\/18 \u041e\u041f\u0420\u0415\u0414\u0415\u041b\u0415\u041d\u0418\u0415 20 \u043d\u043e\u044f\u0431\u0440\u044f <span class=\"highlight\">2018<\/span> \u0433\u043e\u0434\u0430 \u0433. \u041c\u043e\u0441\u043a\u0432\u0430 \u0421\u0443\u0434\u044c\u044f \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e  ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2018-11-20"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "PN013 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0431 \u043e\u0442\u043a\u0430\u0437\u0435 \u0432 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u0434\u0435\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f \u043f\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443 \u0432 \u0441\u0443\u0434 \u043a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 (\u043d\u0430\u0434\u0437\u043e\u0440\u043d\u043e\u0439) \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": " ... : \u041e\u041e\u041e \"\u0410\u0414\u0420-\u0425\u0430\u0430\u043d\u043f\u044f\u044f\" (\u0441 26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f <span class=\"highlight\">2018<\/span> \u0433\u043e\u0434\u0430 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043b\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u043e ... "
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", , , , "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0442\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u0438, 20.11.2018"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434, \u0432\u044b\u043d\u0435\u0441\u0448\u0438\u0439 \u0440\u0435\u0448\u0435\u043d\u0438\u0435: \u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0435\u0440\u0435\u0441\u043c\u043e\u0442\u0440 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0445 \u0434\u0435\u043b \u043a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "45f0bad7-27ff-49bd-94e0-1d090c88847b",
+        "url": "\/mgs\/services\/cases\/cassation-civil\/details\/45f0bad7-27ff-49bd-94e0-1d090c88847b",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0413\u0438\u043b\u0435\u0432 \u0410.\u041d., \u0413\u0438\u043b\u0435\u0432\u0430 \u0410.\u0421.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u041e\u041e\u041e \"\u0410\u0414\u0420-\u0425\u0430\u0430\u043d\u043f\u044f\u044f\" (\u0441 26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2018 \u0433\u043e\u0434\u0430 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043b\u0438\u0446\u0430 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u043e \u043d\u0430 \"\u0421\u0430\u043c\u0430\u0442 \u041d\u043e\u0434\u0440\u0438\u043a\")",
+            "more": 2
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CNK",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0436\u0430\u043b\u043e\u0431\u044b: 4\u0433-14352\/2018"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 20.11.2018"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "4\u0433-6308\/2017"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 12.05.2017"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u0431\u0436\u0430\u043b\u0443\u0435\u043c\u043e\u0433\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u044f: 02.08.2016"
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: "
+        },
+        "actDocuments": [{
+            "ssdId": "0b046763-47af-4ddb-8fa6-382f2f022a10",
+            "objectSsdId": "5c14cbe7-41a5-4bb6-bbbe-2a91dbacdc99",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0431 \u043e\u0442\u043a\u0430\u0437\u0435 \u0432 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u0434\u0435\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f \u043f\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443 \u0432 \u0441\u0443\u0434 \u043a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 (\u043d\u0430\u0434\u0437\u043e\u0440\u043d\u043e\u0439) \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438",
+            "url": "\/mgs\/cases\/docs\/content\/0b046763-47af-4ddb-8fa6-382f2f022a10",
+            "barcode": "77OS0000D002854127",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ... \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432 \u0410\u041d\u041e \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0446\u0438\u044f <span class=\"highlight\">2018<\/span> \u0432 \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u0438 \u0437\u0430\u043c\u0435\u0441\u0442\u0438\u0442\u0435\u043b\u044f \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f  ... \u0440\u0430\u0431\u043e\u0442\u0443 \u0432 \u0410\u041d\u041e \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0446\u0438\u044f <span class=\"highlight\">2018<\/span> \u043d\u0430 \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043c\u0435\u0441\u0442\u0438\u0442\u0435\u043b\u044f \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f  ... \u043f\u0440\u0435\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432 \u0410\u041d\u041e \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0446\u0438\u044f <span class=\"highlight\">2018<\/span> \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0430 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0438\u0437 \u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 ... \u043f\u0440\u0435\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432 \u0410\u041d\u041e \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0446\u0438\u044f <span class=\"highlight\">2018<\/span> \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0445 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u0439 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 ... \u043f\u0440\u0435\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432 \u0410\u041d\u041e \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0446\u0438\u044f <span class=\"highlight\">2018<\/span> \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0445 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u0439 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2017-06-20"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "PN013 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0431 \u043e\u0442\u043a\u0430\u0437\u0435 \u0432 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u0434\u0435\u043b\u0430 \u0434\u043b\u044f \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f \u043f\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443 \u0432 \u0441\u0443\u0434 \u043a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 (\u043d\u0430\u0434\u0437\u043e\u0440\u043d\u043e\u0439) \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0411\u0435\u0441\u0447\u0435\u0442\u043d\u044b\u0439 \u0414.\u0413., \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041d\u041e \"\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0446\u0438\u044f <span class=\"highlight\">2018<\/span>\""
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0442\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u0438, 20.06.2017"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434, \u0432\u044b\u043d\u0435\u0441\u0448\u0438\u0439 \u0440\u0435\u0448\u0435\u043d\u0438\u0435: \u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0435\u0440\u0435\u0441\u043c\u043e\u0442\u0440 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0445 \u0434\u0435\u043b \u043a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041a\u0430\u0441\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "5c14cbe7-41a5-4bb6-bbbe-2a91dbacdc99",
+        "url": "\/mgs\/services\/cases\/cassation-civil\/details\/5c14cbe7-41a5-4bb6-bbbe-2a91dbacdc99",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0411\u0435\u0441\u0447\u0451\u0442\u043d\u044b\u0439 \u0414.\u0413.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041d\u041e \"\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u0434\u0438\u0440\u0435\u043a\u0446\u0438\u044f 2018\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CNK",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0436\u0430\u043b\u043e\u0431\u044b: 4\u0433-6308\/2017"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 20.06.2017"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-6542\/2019"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 05.11.2019"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 118 - \u0421\u043f\u043e\u0440\u044b, \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u0435 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0432 \u0434\u043e\u043b\u0435\u0432\u043e\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435 \u043c\u043d\u043e\u0433\u043e\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u043d\u044b\u0445 \u0434\u043e\u043c\u043e\u0432 \u0438 \u0438\u043d\u044b\u0445 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438"
+        },
+        "actDocuments": [{
+            "ssdId": "883f165b-3981-4096-b859-706ae97bdb81",
+            "objectSsdId": "641a96b1-0fdc-4417-a22c-88d438842e62",
+            "name": "\u041c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "url": "\/rs\/tushinskij\/cases\/docs\/content\/883f165b-3981-4096-b859-706ae97bdb81",
+            "barcode": "77RS0029D000581069",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ... \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u043d\u0435\u0443\u0441\u0442\u043e\u0439\u043a\u0438, \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445  ... \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u043d\u0435\u0443\u0441\u0442\u043e\u0439\u043a\u0438, \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445  ... \u0438\u043c\u0435\u043d\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u0434\u043e\u0433\u043e\u0432\u043e\u0440 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 \u0434\u043e\u043b\u0435\u0432\u043e\u043c  ... \u043e\u0431\u044a\u0435\u043c\u0435. \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c \u043e\u0442\u0432\u0435\u0442\u0447\u0438\u043a\u0430 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u043f\u043e \u0434\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u041f\u043e\u043b\u0435\u0449\u0443\u043a \u041d.\u041c.,  ...  \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u043e \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u0438 \u0421\u043a\u0440\u044b\u043f\u043d\u0438\u043a \u0414.\u041e., \u0421\u043a\u0440\u044b\u043f\u043d\u0438\u043a  ...  \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u043d\u0435\u0443\u0441\u0442\u043e\u0439\u043a\u0438, \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445  ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2019-12-23"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "CE001 \u041c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0421\u043a\u0440\u044b\u043f\u043d\u0438\u043a \u0414.\u041e., \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041e\u041e\u041e \"\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u0421\u043f\u0430\u0440\u0442\u0430\u043a\", \u0418\u0441\u0442\u0435\u0446: \u0421\u043a\u0440\u044b\u043f\u043d\u0438\u043a \u0410.\u0415., \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\""
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", , , "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0442\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u0438, 18.12.2019"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u0423\u0442\u043a\u0438\u043d\u0430 \u041e.\u0412."
+        },
+        "ssdId": "641a96b1-0fdc-4417-a22c-88d438842e62",
+        "url": "\/rs\/tushinskij\/services\/cases\/civil\/details\/641a96b1-0fdc-4417-a22c-88d438842e62",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0421\u043a\u0440\u044b\u043f\u043d\u0438\u043a \u0410.\u0415., \u0421\u043a\u0440\u044b\u043f\u043d\u0438\u043a \u0414.\u041e.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e 2018\"",
+            "more": 1
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0029",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-6542\/2019 ~ \u041c-7017\/2019"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 18.12.2019"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "33-56114\/2019"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 11.12.2019"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 169 - \u041e \u0437\u0430\u0449\u0438\u0442\u0435 \u043f\u0440\u0430\u0432 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0435\u0439 - \u0438\u0437 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u0432 \u0441\u0444\u0435\u0440\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438, \u0443\u0441\u043b\u0443\u0433, \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442"
+        },
+        "actDocuments": [{
+            "ssdId": "867569ff-5fff-4519-887c-bc58513a833b",
+            "objectSsdId": "248f3430-3cbb-40ae-8726-122ad82a36b4",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 ",
+            "url": "\/mgs\/cases\/docs\/content\/867569ff-5fff-4519-887c-bc58513a833b",
+            "barcode": "77OS0000D004277836",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ... \u0417\u0430\u0445\u0432\u0430\u0442\u043e\u0432\u043e\u0439 \u041c.\u0413. \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0437\u0430\u0449\u0438\u0442\u0435 \u043f\u0440\u0430\u0432 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044f- \u043e\u0442\u043a\u0430\u0437\u0430\u0442\u044c. ... \u0441 \u0438\u0441\u043a\u043e\u043c \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u043f\u0440\u043e\u0441\u0438\u043b\u0430 \u0441\u0443\u0434 \u043e\u0431\u044f\u0437\u0430\u0442\u044c \u043e\u0442\u0432\u0435\u0442\u0447\u0438\u043a\u0430  ... \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u0437\u0430 \u0441\u0432\u043e\u0439 \u0441\u0447\u0435\u0442 \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u044b ... \u0441\u0438\u043b\u0443; \u0432\u0437\u044b\u0441\u043a\u0430\u0442\u044c \u0441 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u0432 \u043f\u043e\u043b\u044c\u0437\u0443 \u0438\u0441\u0442\u0446\u0430 \u043d\u0435\u0443\u0441\u0442\u043e\u0439\u043a\u0443  ... \u041c.\u0413. \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u044b \u0441 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u0434\u0432\u0430 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432  ... \u0417\u0430\u0445\u0432\u0430\u0442\u043e\u0432\u043e\u0439 \u041c.\u0413. \u0438 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u0431\u044b\u043b\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u044b \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u044b \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 ... \u043c\u0435\u0436\u0434\u0443 \u0438\u0441\u0442\u0446\u043e\u043c \u0438 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb. \u0421\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043f. 4.2.5,  ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2019-12-16"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "PA003 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 "
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\", \u0418\u0441\u0442\u0435\u0446: \u0417\u0430\u0445\u0432\u0430\u0442\u043e\u0432\u0430 \u041c.\u0413."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u0443\u0434\u0435\u0431\u043d\u043e\u0435 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0431\u0435\u0437 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u0436\u0430\u043b\u043e\u0431\u0443 \u0431\u0435\u0437 \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u044f, 16.12.2019"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434 (\u041b\u0435\u0431\u0435\u0434\u0435\u0432 \u042e.\u0412.)"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "248f3430-3cbb-40ae-8726-122ad82a36b4",
+        "url": "\/mgs\/services\/cases\/appeal-civil\/details\/248f3430-3cbb-40ae-8726-122ad82a36b4",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0417\u0430\u0445\u0432\u0430\u0442\u043e\u0432\u0430 \u041c.\u0413.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e 2018\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CA",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 33-56114\/2019"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 16.12.2019"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u043d\u0438\u0436\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: 02-4172\/2019"
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "33-17329\/2019"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 16.04.2019"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 118 - \u0421\u043f\u043e\u0440\u044b, \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u0435 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0432 \u0434\u043e\u043b\u0435\u0432\u043e\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435 \u043c\u043d\u043e\u0433\u043e\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u043d\u044b\u0445 \u0434\u043e\u043c\u043e\u0432 \u0438 \u0438\u043d\u044b\u0445 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438"
+        },
+        "actDocuments": [{
+            "ssdId": "c3b4c7d7-95fa-4f33-83f4-6ebbc8260710",
+            "objectSsdId": "2b894ecc-a338-4bb4-a3b4-8d2224122252",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 ",
+            "url": "\/mgs\/cases\/docs\/content\/c3b4c7d7-95fa-4f33-83f4-6ebbc8260710",
+            "barcode": "77OS0000D003924245",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u043c\u0443 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ...  \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ... , \u0447\u0442\u043e 11.05.2016 \u043c\u0435\u0436\u0434\u0443 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u043c \u043f\u043e \u043f\u043e\u0440\u0443\u0447\u0435\u043d\u0438\u044e \u041e\u041e\u041e \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d ...  29.03.2018 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f\u043c\u0438 \u043e\u0442\u0432\u0435\u0442\u0447\u0438\u043a\u0430 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u0438\u0441\u0442\u0446\u0443 \u0431\u044b\u043b\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043e \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u0442\u044c \u0430\u043a\u0442 ... , \u0447\u0442\u043e 11.05.2016 \u043c\u0435\u0436\u0434\u0443 \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0433\u043e \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u0430\u0433\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2019-04-18"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "PA003 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0443\u0434\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438 "
+            }
+        }, {
+            "ssdId": "5d01b511-2ab5-4b6a-bfaf-e89226f351a9",
+            "objectSsdId": "2b894ecc-a338-4bb4-a3b4-8d2224122252",
+            "name": "\u0420\u0435\u0448\u0435\u043d\u0438\u0435",
+            "url": "\/mgs\/cases\/docs\/content\/5d01b511-2ab5-4b6a-bfaf-e89226f351a9",
+            "barcode": "77RS0029D000455060",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u0418\u041c\u0415\u041d\u0415\u041c \u0420\u041e\u0421\u0421\u0418\u0419\u0421\u041a\u041e\u0419 \u0424\u0415\u0414\u0415\u0420\u0410\u0426\u0418\u0418 03 \u043e\u043a\u0442\u044f\u0431\u0440\u044f <span class=\"highlight\">2018<\/span> \u0433\u043e\u0434\u0430 \u0433\u043e\u0440\u043e\u0434 \u041c\u043e\u0441\u043a\u0432\u0430 \u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 ...  \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u043c\u0443 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ...  \u00ab\u0421\u0442\u0430\u0434\u0438\u043e\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u00bb, \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u043c\u0443 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0440\u0430\u0441\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430, \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2018-10-03"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "AC001 \u0420\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\", \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041e\u041e\u041e \"\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u0421\u043f\u0430\u0440\u0442\u0430\u043a\", \u0418\u0441\u0442\u0435\u0446: \u0428\u0438\u0440\u043e\u043a\u043e\u0432 \u0412.\u041f."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", , "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u0443\u0434\u0435\u0431\u043d\u043e\u0435 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0431\u0435\u0437 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u0436\u0430\u043b\u043e\u0431\u0443 \u0431\u0435\u0437 \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u044f, 18.04.2019"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u0441\u0443\u0434\u044c\u044f: \u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434 (\u041a\u0443\u043b\u0438\u0447\u0435\u0432 \u0420.\u0411.)"
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u0430\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "ssdId": "2b894ecc-a338-4bb4-a3b4-8d2224122252",
+        "url": "\/mgs\/services\/cases\/appeal-civil\/details\/2b894ecc-a338-4bb4-a3b4-8d2224122252",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0428\u0438\u0440\u043e\u043a\u043e\u0432 \u0412.\u041f.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e 2018\", \u041e\u041e\u041e \"\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u0421\u043f\u0430\u0440\u0442\u0430\u043a\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CA",
+        "courtCode": "77OS0000",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430: 33-17329\/2019"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 18.04.2019"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 \u0432 \u0441\u0443\u0434\u0435 \u043d\u0438\u0436\u0435\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438: 02-4891\/2018"
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-1844\/2020"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 31.01.2020"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 118 - \u0421\u043f\u043e\u0440\u044b, \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u0435 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0432 \u0434\u043e\u043b\u0435\u0432\u043e\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435 \u043c\u043d\u043e\u0433\u043e\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u043d\u044b\u0445 \u0434\u043e\u043c\u043e\u0432 \u0438 \u0438\u043d\u044b\u0445 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438"
+        },
+        "actDocuments": [{
+            "ssdId": "9260271f-f635-4d0e-b121-f9563198431f",
+            "objectSsdId": "f6fef1ed-0bb4-4e94-9499-1bf5bbd0136c",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u043f\u043e \u0434\u0435\u043b\u0443",
+            "url": "\/rs\/tushinskij\/cases\/docs\/content\/9260271f-f635-4d0e-b121-f9563198431f",
+            "barcode": "77RS0029D000616675",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u0421\u0430\u0432\u0430\u0448\u0435\u0440\u0438 \u0415.\u0412. \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432, \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b ...  \u0441 \u0438\u0441\u043a\u043e\u043c \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0432 ...  \u0434\u0435\u043b\u0443 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u0438\u0442\u044c. \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u0432 \u0441\u0443\u0434\u0435\u0431\u043d\u043e\u0435 \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0435 \u043d\u0435 \u044f\u0432\u0438\u043b\u0441\u044f ...  \u0438\u0441\u043a\u043e\u0432\u044b\u0445 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u0439 \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432. \u041f\u0440\u0435\u043a\u0440\u0430\u0442\u0438\u0442\u044c ...  \u0421\u0430\u0432\u0430\u0448\u0435\u0440\u0438 \u0415.\u0412. \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432. \u041f\u043e\u0432\u0442\u043e\u0440\u043d\u043e\u0435 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2020-03-18"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "AB090 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u043f\u043e \u0434\u0435\u043b\u0443"
+            }
+        }, {
+            "ssdId": "bee43276-1c03-494f-a827-e01d1b6e37dc",
+            "objectSsdId": "f6fef1ed-0bb4-4e94-9499-1bf5bbd0136c",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0438 \u0437\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0443",
+            "url": "\/rs\/tushinskij\/cases\/docs\/content\/bee43276-1c03-494f-a827-e01d1b6e37dc",
+            "barcode": "77RS0029D000602896",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u0415\u043b\u0435\u043d\u044b \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u044b \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432, \u043d\u0435\u0443\u0441\u0442\u043e\u0439\u043a\u0438 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2020-02-05"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "AE002 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0438 \u0437\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0443"
+            }
+        }, {
+            "ssdId": "6eff59a7-309e-45e4-a69e-e31ffcb67856",
+            "objectSsdId": "f6fef1ed-0bb4-4e94-9499-1bf5bbd0136c",
+            "name": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0435 \u0434\u0435\u043b\u0430 \u043a \u0441\u0443\u0434\u0435\u0431\u043d\u043e\u043c\u0443 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443",
+            "url": "\/rs\/tushinskij\/cases\/docs\/content\/6eff59a7-309e-45e4-a69e-e31ffcb67856",
+            "barcode": "77RS0029D000602903",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u0415\u043b\u0435\u043d\u044b \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u044b \u043a \u0410\u041e \u00ab\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\u00bb \u043e \u0432\u0437\u044b\u0441\u043a\u0430\u043d\u0438\u0438 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432, \u043d\u0435\u0443\u0441\u0442\u043e\u0439\u043a\u0438 ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2020-02-05"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "AB005 \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043e \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0435 \u0434\u0435\u043b\u0430 \u043a \u0441\u0443\u0434\u0435\u0431\u043d\u043e\u043c\u0443 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u0418\u0441\u0442\u0435\u0446: \u0421\u0430\u0432\u0430\u0448\u0435\u0440\u0438 \u0415.\u0412., \u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e <span class=\"highlight\">2018<\/span>\""
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u043e, 18.03.2020"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u0418\u0437\u043e\u0442\u043e\u0432\u0430 \u0415.\u0412."
+        },
+        "ssdId": "f6fef1ed-0bb4-4e94-9499-1bf5bbd0136c",
+        "url": "\/rs\/tushinskij\/services\/cases\/civil\/details\/f6fef1ed-0bb4-4e94-9499-1bf5bbd0136c",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0421\u0430\u0432\u0430\u0448\u0435\u0440\u0438 \u0415.\u0412.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u0410\u041e \"\u0422\u0443\u0448\u0438\u043d\u043e 2018\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0029",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-1844\/2020 ~ \u041c-0686\/2020"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 18.03.2020"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }, {
+        "fullNumber": {
+            "snippetFlag": false,
+            "snippetText": "02-1686\/2019"
+        },
+        "letterNumber": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "legalForceDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u0441\u0438\u043b\u0443: 22.06.2019"
+        },
+        "date": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 (\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f): 28.01.2019"
+        },
+        "effectDate": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "codexArticle": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "category": {
+            "snippetFlag": false,
+            "snippetText": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0434\u0435\u043b\u0430: 169 - \u041e \u0437\u0430\u0449\u0438\u0442\u0435 \u043f\u0440\u0430\u0432 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0435\u0439 - \u0438\u0437 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u0432 \u0441\u0444\u0435\u0440\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438, \u0443\u0441\u043b\u0443\u0433, \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442"
+        },
+        "actDocuments": [{
+            "ssdId": "c280a6f2-c3c3-4546-9403-453fc61f9adb",
+            "objectSsdId": "ed4c8976-b09c-41fe-beed-36ab402523dc",
+            "name": "\u0420\u0435\u0448\u0435\u043d\u0438\u0435",
+            "url": "\/rs\/chertanovskij\/cases\/docs\/content\/c280a6f2-c3c3-4546-9403-453fc61f9adb",
+            "barcode": "77RS0033D000583330",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0430\u0442\u0447 \u0444\u0438\u043e <span class=\"highlight\">2018<\/span> \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432 \u0433. \u041c\u043e\u0441\u043a\u0432\u0435 ...  \u0442\u0435\u043c, \u0447\u0442\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043c\u0430\u0442\u0447 \u0444\u0438\u043e <span class=\"highlight\">2018<\/span> \u0441\u043e\u0441\u0442\u043e\u044f\u043b\u0441\u044f \u0434\u0430\u0442\u0430, \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0434\u043e\u043b\u0436\u043d\u044b ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2019-05-06"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "AC001 \u0420\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }, {
+            "ssdId": "b233aa35-c4b3-42ea-a954-515631ffa2a0",
+            "objectSsdId": "ed4c8976-b09c-41fe-beed-36ab402523dc",
+            "name": "\u041c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "url": "\/rs\/chertanovskij\/cases\/docs\/content\/b233aa35-c4b3-42ea-a954-515631ffa2a0",
+            "barcode": "77RS0033D000592123",
+            "snippet": {
+                "snippetFlag": true,
+                "snippetText": " ...  \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0430\u0442\u0447 \u0444\u0438\u043e <span class=\"highlight\">2018<\/span> \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432 \u0433. \u041c\u043e\u0441\u043a\u0432\u0435 ...  \u0442\u0435\u043c, \u0447\u0442\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043c\u0430\u0442\u0447 \u0444\u0438\u043e <span class=\"highlight\">2018<\/span> \u0441\u043e\u0441\u0442\u043e\u044f\u043b\u0441\u044f \u0434\u0430\u0442\u0430, \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0434\u043e\u043b\u0436\u043d\u044b ... "
+            },
+            "date": {
+                "snippetFlag": false,
+                "snippetText": "2019-05-20"
+            },
+            "type": {
+                "snippetFlag": false,
+                "snippetText": "CE001 \u041c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"
+            }
+        }],
+        "associated": null,
+        "participantsName": {
+            "snippetFlag": true,
+            "snippetText": "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a: \u041e\u041e\u041e \"\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u041c\u0438\u0440\u0430 \u0424\u0418\u0424\u0410 <span class=\"highlight\">2018<\/span> \u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0438\u043b\u0435\u0442\u043e\u0432\", \u0418\u0441\u0442\u0435\u0446: \u0425\u0440\u0443\u043b\u0435\u043d\u043a\u043e \u041a.\u0414."
+        },
+        "participantsCodexArticles": {
+            "snippetFlag": false,
+            "snippetText": ", "
+        },
+        "publishingStateDescription": {
+            "snippetFlag": false,
+            "snippetText": "\u0422\u0435\u043a\u0443\u0449\u0435\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435: \u041e\u0442\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u0438, 06.05.2019"
+        },
+        "firstCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "effectCourt": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "court": {
+            "snippetFlag": false,
+            "snippetText": "\u0427\u0435\u0440\u0442\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "group": {
+            "snippetFlag": false,
+            "snippetText": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u0435\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u0438"
+        },
+        "instance": {
+            "snippetFlag": false,
+            "snippetText": "\u0418\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f: \u041f\u0435\u0440\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u044f"
+        },
+        "judge": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434\u044c\u044f: \u0411\u043e\u043d\u0434\u0430\u0440\u0435\u0432\u0430 \u041d.\u0410."
+        },
+        "ssdId": "ed4c8976-b09c-41fe-beed-36ab402523dc",
+        "url": "\/rs\/chertanovskij\/services\/cases\/civil\/details\/ed4c8976-b09c-41fe-beed-36ab402523dc",
+        "participantsWithCategories": {
+            "\u0418\u0441\u0442\u0435\u0446": "\u0425\u0440\u0443\u043b\u0435\u043d\u043a\u043e \u041a.\u0414.",
+            "\u041e\u0442\u0432\u0435\u0442\u0447\u0438\u043a": "\u041e\u041e\u041e \"\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u041c\u0438\u0440\u0430 \u0424\u0418\u0424\u0410 2018 \u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0438\u043b\u0435\u0442\u043e\u0432\""
+        },
+        "type": {
+            "snippetFlag": false,
+            "snippetText": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u043e\u0435"
+        },
+        "groupCode": "CS",
+        "courtCode": "77RS0033",
+        "fullNumberSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u041d\u043e\u043c\u0435\u0440 \u0434\u0435\u043b\u0430 ~ \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430: 02-1686\/2019 ~ \u041c-1357\/2019"
+        },
+        "courtSearch": {
+            "snippetFlag": false,
+            "snippetText": "\u0421\u0443\u0434: \u0427\u0435\u0440\u0442\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u043d\u044b\u0439 \u0441\u0443\u0434"
+        },
+        "finalDate": {
+            "snippetFlag": false,
+            "snippetText": "\u0414\u0430\u0442\u0430 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f (\u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044f): 06.05.2019"
+        },
+        "parentCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        },
+        "childrenCaseAssociated": {
+            "snippetFlag": false,
+            "snippetText": null
+        }
+    }],
+    "total": "861211",
+    "query": ["2018"],
+    "queryStats": [],
+    "suggestedQuery": ["2018"]
+}

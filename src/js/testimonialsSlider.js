@@ -4,16 +4,23 @@ import debouce from 'lodash/debounce.js';
 
 const testimonialsSlider = () => {
   const slider = new Swiper ('.testimonials__slider-container', {
-      loop: true,
-      slidesPerView: 4,
+      slidesPerView: 1,
       spaceBetween: 30,
-      slidesPerView: 'auto',
-      centeredSlides: true,
-      effect: `slide`,
+      freeMode: true,
+      breakpoints: {
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 40,
+        },
+        992: {
+          slidesPerView: 3,
+          spaceBetween: 25,
+        },
+      },
       pagination: {
       el: '.testimonials-pagination ',
       clickable: true,
-      },
+        },
       },
   );
 }

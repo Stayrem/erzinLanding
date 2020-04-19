@@ -9,6 +9,7 @@ const tariffsSlider = () => {
       slidesPerView: 'auto',
       centeredSlides: true,
       spaceBetween: 30,
+      freeMode: true,
       effect: `slide`,
       pagination: {
         el: '.tariffs-slider .swiper-pagination ',

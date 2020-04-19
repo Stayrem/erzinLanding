@@ -149,6 +149,30 @@ body {
   }
 }
 
+.modal {
+  display: none;
+}
+
+.modal.is-open {
+  display: block;
+}
+
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.js-disable-scroll {
+  overflow-y: hidden;
+}
+
 @media (min-width: $media-desktop) {
   .js-transition-off {
     transform: unset !important;
