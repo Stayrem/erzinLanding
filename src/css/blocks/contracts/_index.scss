@@ -1,0 +1,26 @@
+.contracts__row {
+  flex-direction: column;
+}
+
+.contracts-example {
+  max-height: 515px;
+  height: 100%;
+}
+
+.contracts-example__item {
+  height: 100%;
+}
+
+.contacts__title {
+  margin-top: 20px;
+}
+
+.examples__slider-container {
+  height: 100%;
+}
+
+@media (max-width: $media-laptop) {
+  .contracts-example {
+    padding-bottom: 50px;
+  }
+}

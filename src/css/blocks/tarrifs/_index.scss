@@ -148,6 +148,7 @@
 }
 
 .tariffs-slider__pagination {
+  display: none;
   margin-top: 20px;
   width: 100%;
 
@@ -178,7 +179,7 @@
   }
 
   .tariffs__title {
-    text-align: left;
+    text-align: center;
   }
 
   .tariffs-slider__item-text {

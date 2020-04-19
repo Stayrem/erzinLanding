@@ -3,6 +3,14 @@
   max-width: 400px;
 }
 
+.section__text--big {
+  color: #f14848;
+  font-family: "TT Barrels", sans-serif;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: 600;
+}
+
 @media (max-width: $media-laptop) {
   .solutions {
     padding-bottom: 80px;
