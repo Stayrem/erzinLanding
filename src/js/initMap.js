@@ -20,7 +20,7 @@ const initMap = () => {
     const marker = new google.maps.Marker({
       position: coordinates,
       map: map,
-      icon: `/assets/img/marker.svg`,
+      icon: `./assets/img/marker.svg`,
     });
     map.setOptions({styles: styles});
   });

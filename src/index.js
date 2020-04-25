@@ -12,6 +12,7 @@ import initMap from './js/initMap.js';
 import initModal from './js/initModal.js';
 import initMask from './js/initFormMask.js';
 import formSender from './js/formController.js';
+import initExampleTabs from './js/example-tabs.js';
 
 document.addEventListener(`DOMContentLoaded`, () => {
     lazySizes.init();
@@ -23,5 +24,5 @@ document.addEventListener(`DOMContentLoaded`, () => {
     initModal();
     initMask();
     formSender();
-    
+    initExampleTabs();
 });

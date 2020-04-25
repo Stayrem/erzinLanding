@@ -8,6 +8,28 @@
   margin-left: auto;
 }
 
+.deal-col {
+  z-index: 1;
+}
+
+.deal--before {
+  position: relative;
+
+  &::before {
+    position: absolute;
+    display: block;
+    content: "";
+    width: 200px;
+    height: 155px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("./assets/img/hammer.png");
+    bottom: 0;
+    left: -100px;
+    z-index: -1;
+  }
+}
+
 .deal__container {
   border-radius: 10px;
   margin-right: unset;
@@ -133,6 +155,14 @@
 
   .deal__price__subtitle {
     font-size: 14px;
+  }
+}
+
+@media (max-width: $media-laptop) {
+  .deal--before {
+    &::before {
+      display: none;
+    }
   }
 }
 
