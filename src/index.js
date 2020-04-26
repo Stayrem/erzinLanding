@@ -1,6 +1,7 @@
 import "bootstrap-4-grid/css/grid.min.css";
 import "swiper/css/swiper.min.css"
 import "normalize.css/normalize.css"
+import 'lightgallery.js/dist/css/lightgallery.css';
 import "./css/index.scss";
 import 'lazysizes/lazysizes.js';
 import 'zenscroll/zenscroll-min.js';
@@ -13,6 +14,7 @@ import initModal from './js/initModal.js';
 import initMask from './js/initFormMask.js';
 import formSender from './js/formController.js';
 import initExampleTabs from './js/example-tabs.js';
+import initLightBox from './js/initLightBox.js';
 
 document.addEventListener(`DOMContentLoaded`, () => {
     lazySizes.init();
@@ -25,4 +27,5 @@ document.addEventListener(`DOMContentLoaded`, () => {
     initMask();
     formSender();
     initExampleTabs();
+    initLightBox();
 });

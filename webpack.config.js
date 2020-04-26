@@ -72,7 +72,7 @@ module.exports = {
       {
         flatten: true,
         context: SRC,
-        from: '**/*.ttf',
+        from: '**/*.{ttf,woff}',
         to: path.join(ASSETS, 'fonts')
       },
     ]),

@@ -330,6 +330,16 @@
   .examples__tabs-text {
     font-size: 14px;
   }
+
+  .examples__tabs-btn {
+    width: 50%;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .testimonials {
+    padding-bottom: 60px;
+  }
 }
 
 @media (max-width: $media-mobile) {

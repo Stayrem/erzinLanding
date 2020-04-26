@@ -6,10 +6,45 @@
   background-size: cover;
 }
 
+.section__row {
+  justify-content: flex-end;
+}
+
 .section__title {
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 75px;
+  position: relative;
+
+  &::before {
+    content: attr(data-letter);
+    display: block;
+    position: absolute;
+    font-family: "TT Barrels", sans-serif;
+    font-weight: 600;
+    font-size: 200px;
+    opacity: 0.05;
+    color: $color-light-black;
+    right: 100%;
+    top: -50%;
+  }
+}
+
+.section__title--bg {
+  &::before {
+    color: $color-pure-white;
+    transform: unset;
+    left: 0;
+    right: unset;
+  }
+}
+
+.section__title--flex {
+  display: flex;
+
+  &::before {
+    position: unset;
+  }
 }
 
 .section__text {
@@ -42,6 +77,14 @@
   .section__text {
     font-size: 14px;
     margin-bottom: 20px;
+  }
+}
+
+@media (max-width: $media-laptop) {
+  .section__title {
+    &::before {
+      content: "";
+    }
   }
 }
 

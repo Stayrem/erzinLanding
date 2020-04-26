@@ -11,6 +11,11 @@
   text-align: center;
   color: $color-pure-white;
   margin-bottom: 45px;
+
+  &::before {
+    top: 50%;
+    transform: translateY(-50%);
+  }
 }
 
 .testimonials__slider-slide {

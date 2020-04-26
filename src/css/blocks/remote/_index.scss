@@ -1,5 +1,6 @@
 .remote__title {
   margin-bottom: 0;
+  font-size: 30px;
 }
 
 .remote__list {
@@ -54,6 +55,12 @@
   .remote__list-text {
     font-size: 14px;
     line-height: 1.5;
+  }
+
+  .remote-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
