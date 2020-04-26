@@ -15,10 +15,35 @@
   color: $color-pure-white;
 }
 
+.welcome__image-wrapper {
+  display: flex;
+  align-items: flex-end;
+}
+
 .welcome__img {
   margin-top: 25px;
   width: 100%;
   align-self: flex-end;
+  position: relative;
+}
+
+.welcome__img-wrapper {
+  height: min-content;
+  position: relative;
+  display: flex;
+
+  &::before {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 90%;
+    width: 70px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: $color-pure-white;
+    filter: blur(90px);
+  }
 }
 
 .welcome__subtitle {
@@ -52,27 +77,28 @@
     content: "";
     width: 53px;
     height: 52px;
-    opacity: 0.5;
+    opacity: 0.7;
     background-image: url("./assets/img/welcome-arrow.png");
     top: -50px;
     right: -50px;
   }
 }
 
-.welcome__image-wrapper {
-  position: relative;
-  display: flex;
-}
-
 .welcome__tooltip {
-  display: flex;
-  flex-direction: column;
   position: absolute;
   left: -150px;
   bottom: 100px;
+  padding: 5px;
+  border-radius: 8px;
+  background: linear-gradient(45deg, #3a3941, #27252d);
+}
+
+.welcome__tooltip-inner {
+  display: flex;
+  flex-direction: column;
+  border: 1px dashed rgba(255, 255, 255, 0.15);
   padding: 20px;
   border-radius: 8px;
-  border: 1px dashed rgba(255, 255, 255, 0.15);
 }
 
 .welcome__tooltip-title {

@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Алексей Эрзин</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta property="og:title" content="Разработка договоров и публичных оферт | Юрист Алексей Эрзин" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://contracts.erzin.moscow" />
+  <meta property="og:image" content="https://contracts.erzin.moscow/assets/img/og-image.jpg" />
+  <title>Разработка договоров и публичных оферт | Юрист Алексей Эрзин</title>
 <link href="./vendors.css" rel="stylesheet"><link href="./bundle.css" rel="stylesheet"></head>
-
 <body>
   <div class="page-wrapper">
     <section class="welcome">
@@ -31,17 +34,21 @@
         </div>
         <div class="row">
           <div class="col-12 col-md-7 welcome__content">
-            <h1 class="title welcome__title">Профессиональные юридические услуги <span class="title--blue">в Москве</span></h1>
-            <p class="welcome__subtitle">Юридическая помощь в экономических спорах.<br> Ваш личный представитель в суде.</p>
+            <h1 class="title welcome__title">Разработка <br><span class="title--blue"> договоров</span> и<br> публичных оферт </h1>
+            <p class="welcome__subtitle">Составление и внедрение грамотных договоров и <br> публичных оферт в Ваш бизнес.</p>
             <button class="btn welcome__btn blue-btn js-modal-open">Заказать звонок</button>
-            <p class="welcome__subtext">Бесплатный анализ перспектив дела</p>
+            <p class="welcome__subtext">Бесплатная консультация</p>
           </div>
           <div class="col-12 col-md-5 welcome__image-wrapper">
-            <img loading="lazy" data-src="assets/img/person.png" alt="Фотография Юриста" class="welcome__img mobile-hide lazyload">
+            <div class="welcome__img-wrapper">
+              <img loading="lazy" data-src="./assets/img/person.png" alt="Фотография Юриста" class="welcome__img mobile-hide lazyload">
+            </div>
             <div class="welcome__tooltip">
-              <img loading="lazy" data-src="assets/img/person-mobile.png" alt="Фотография Юриста" class="welcome__tooltip-img desktop-hide lazyload">
-              <span class="welcome__tooltip-title">Алексей Эрзин</span>
-              <span class="welcome__tooltip-subtitle">Квалифицированный юрист</span>
+              <div class="welcome__tooltip-inner">
+                <img loading="lazy" data-src="./assets/img/person-mobile.png" alt="Фотография Юриста" class="welcome__tooltip-img desktop-hide lazyload">
+                <span class="welcome__tooltip-title">Алексей Эрзин</span>
+                <span class="welcome__tooltip-subtitle">Квалифицированный юрист</span>
+              </div>
             </div>
           </div>
         </div>
@@ -50,70 +57,37 @@
     <main class="main">
       <section class="solutions section">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-5 col-sm-12">
-              <h2 class="solutions__title section__title title">Простое решение сложных вопросов в деле о <span class="title--blue">банкротстве</span></h2>
-              <p class="section__text">Полный спектр услуг по представлению интересов кредитора в деле о банкротстве:</p>
-              <ul class="section__list">
-                <li class="section__list-item">
-                  <button data-slide-index="0" class="js-deal-change-slide deal__pagination-btn deal__pagination-btn--active">Заявления о включении требования в реестр требований кредиторов</button> 
-                </li>
-                <li class="section__list-item"> 
-                  <button data-slide-index="1" class="js-deal-change-slide deal__pagination-btn">Заявления о включении требования в реестр требований кредиторов с представлением интересов в суде</button> 
-                </li>
-                <li class="section__list-item">
-                  <button data-slide-index="2" class="js-deal-change-slide deal__pagination-btn">Полное сопровождение дела о банкротстве</button>
-                </li>
-              </ul>
+          <div class="row section__row">
+            <div class="col-md-6 col-lg-4 col-sm-12">
+              <h2 data-letter="E" class="solutions__title section__title title">Каждый аспект <span class="title--blue">договоренностей</span> <br>будет учтен</h2>
+              <p class="section__text">Только начинаете свой бизнес или уже давно на ходу? Ведете работу с несколькими контрагентами?</p>
+              <p class="section__text">Тогда Ваш типовой договор должен быть идеальным и учитывать все нюансы бизнеса и деловых взаимоотношений.</p>
+              <p class="section__text">По статистике, <span class="section__text--big">90% </span>договоров составлены некорректно, что может привести к негативным последствиям при исполнении договора, а в дальнейшем - в суде.</p>
+              <p class="section__text">Закажите проект типового договора у профессионалов прямо сейчас</p>
             </div>
-            <div class="col-md-6 col-lg-7 col-sm-12">
-              <div class="deal">
-                <div class="solutions__deal deal__container swiper-container">
-                  <div class="swiper-wrapper deal__wrapper">
-                      <div class="swiper-slide deal__item">
-                        <p class="deal__title">Заявления о включении требования в реестр требований кредиторов</p>
-                        <p class="deal__text">Подготовим и подадим проработанное заявление о включении в реестр требований кредиторов.</p>
+            <div class="col-md-6 col-lg-7 col-sm-12 deal-col">
+              <div class="deal deal--before">
+                <div class="solutions__deal">
+                  <div class="deal__wrapper deal__container">
+                      <div class="deal__item">
+                        <p class="deal__title">Разработка и внедрение договора или публичной оферты</p>
+                        <p class="deal__text">Подготовим и внедрим качественный проработанный договор в Ваш бизнес.</p>
                         <div class="deal__price-item">
-                          <span class="deal__price-title">15 000 рублей</span>
-                          <span class="deal__price__subtitle">если долг просужен</span>
+                          <span class="deal__price-title">от 10 000 рублей</span>
+                          <span class="deal__price__subtitle">для самозанятых и ИП</span>
                         </div>
                         <div class="deal__price-item">
-                          <span class="deal__price-title">30 000 рублей</span>
-                          <span class="deal__price__subtitle">если долг подтверждается документально, не был предметом рассмотрения в суде</span>
-                        </div>
-                        <button class="btn blue-btn deal__btn js-modal-open">Заказать консультацию</button>
-                      </div>
-                      <div class="swiper-slide deal__item">
-                        <p class="deal__title">Заявления о включении требования в реестр требований кредиторов</p>
-                        <p class="deal__text">Подготовим и подадим проработанное заявление о включении в реестр требований кредиторов.</p>
-                        <div class="deal__price-item">
-                          <span class="deal__price-title">25 000 рублей</span>
-                          <span class="deal__price__subtitle">если долг просужен</span>
+                          <span class="deal__price-title">от 20 000 рублей</span>
+                          <span class="deal__price__subtitle">для юридических лиц</span>
                         </div>
                         <div class="deal__price-item">
-                          <span class="deal__price-title">30 000 рублей</span>
-                          <span class="deal__price__subtitle">если долг подтверждается документально, не был предметом рассмотрения в суде</span>
+                          <span class="deal__price-title--prepaid">50% предоплата</span>
+                          <span class="deal__price__subtitle--prepaid">на первой встрече</span>
                         </div>
-                        <button class="btn blue-btn deal__btn js-modal-open">Заказать консультацию</button>
-                      </div>
-                      <div class="swiper-slide deal__item">
-                        <p class="deal__title">Полное сопровождение банкротства со стороны Кредиторов</p>
-                        <p class="deal__text">Подготовим и подад</p>
-                        <div class="deal__price-item">
-                          <span class="deal__price-title">5 000 рублей</span>
-                          <span class="deal__price__subtitle">если долг просужен</span>
-                        </div>
-                        <div class="deal__price-item">
-                          <span class="deal__price-title">2 000 рублей</span>
-                          <span class="deal__price__subtitle">если долг подтверждается документально, не был предметом рассмотрения в суде</span>
-                        </div>
-                        <button class="btn blue-btn deal__btn js-modal-open">Заказать консультацию</button>
+                        <button class="btn blue-btn deal__btn js-modal-open">Заказать договор</button>
                       </div>
                   </div>
                 </div>
-              </div>
-              <div class="deal-pagination__wrapper desktop-hide">
-                <div class="deal-pagination swiper-pagination"></div>
               </div>
             </div>
           </div>
@@ -122,80 +96,119 @@
       <section id="tariffs"  class="tariffs section" aria-labelledby="heading-tarrifs">
         <div class="container">
           <div class="row">
-            <h2 class="title tariffs__title section__title title--middle title--white col">
-              Полное сопровождение банкротства <br> со стороны <span class="title--blue">кредитора</span>
+            <h2 data-letter="R" class="title tariffs__title section__title section__title--bg title--middle title--white col">
+              Как мы работаем<br> с нашими<span class="title--blue"> клиентами</span>?
             </h2>
           </div>
         </div>
         <div>
-          <div class="tariffs-slider">
-            <div class="swiper-container tariffs-slider__container ">
-              <div class="swiper-wrapper tariffs-slider__wrapper js-transition-off">
-                <div class="swiper-slide tariffs-slider__item">
-                  <div class="tariffs-slider__inner">
-                    <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
-                    <p class="tariffs-slider__item-title">Наблюдение</p>
-                    <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
-                    <span class="tariffs-slider__item-price">
-                      от 30 000 рублей
-                      <span class="tariffs-slider__item-tooltip">?</span>
-                    </span>
-                    <span class="tariffs-slider__item-subprice">в месяц</span>
-                    <button class="btn tariffs-slider__item-btn js-modal-open">Заказать услугу</button>
-                  </div>
-                </div>
-                <div class="swiper-slide tariffs-slider__item">
-                  <div class="tariffs-slider__inner">
-                    <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
-                    <p class="tariffs-slider__item-title">Наблюдение</p>
-                    <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
-                    <span class="tariffs-slider__item-price">
-                      от 30 000 рублей
-                      <span class="tariffs-slider__item-tooltip">?</span>
-                    </span>
-                    <span class="tariffs-slider__item-subprice">в месяц</span>
-                    <button class="btn tariffs-slider__item-btn js-modal-open">Заказать услугу</button>
-                  </div>
-                </div>
-                <div class="swiper-slide tariffs-slider__item">
-                  <div class="tariffs-slider__inner">
-                    <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
-                    <p class="tariffs-slider__item-title">Наблюдение</p>
-                    <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
-                    <span class="tariffs-slider__item-price">
-                      от 30 000 рублей
-                      <span class="tariffs-slider__item-tooltip">?</span>
-                    </span>
-                    <span class="tariffs-slider__item-subprice">в месяц</span>
-                    <button class="btn tariffs-slider__item-btn js-modal-open">Заказать услугу</button>
-                  </div>
-                </div>
-                <div class="swiper-slide tariffs-slider__item">
-                  <div class="tariffs-slider__inner">
-                    <img loading="lazy" data-src="assets/img/portfolio.svg" alt="Деловой портфель" class="tariffs-slider__item-icon lazyload">
-                    <p class="tariffs-slider__item-title">Наблюдение</p>
-                    <p class="tariffs-slider__item-text">Включение в реестр, ознакомление с материалами дела и отработка требований иных кредиторов, представление интересов на собрании кредиторов, прогнозирование перспектив банкротства</p>
-                    <span class="tariffs-slider__item-price">
-                      от 30 000 рублей
-                      <span class="tariffs-slider__item-tooltip">?</span>
-                    </span>
-                    <span class="tariffs-slider__item-subprice">в месяц</span>
-                    <button class="btn tariffs-slider__item-btn js-modal-open">Заказать услугу</button>
-                  </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-3 col-md-6 col-12 step-wrapper">
+              <div class="tariff-slide step">
+                <div class="tariffs-slider__inner step__inner">
+                  <p class="tariffs-slider__item-title step__title">1</p>
+                  <p class="tariffs-slider__item-title tariffs-slider__item-subtitle">Анализ</p>
+                  <p class="tariffs-slider__item-text">Изучаем существующий типовой договор, выявлем ошибки. Проводим 1-2 встречи с целью погружения в бизнес клиента. Разбираем судебные дела и претензии к организации.</p>
                 </div>
               </div>
             </div>
-            <div class="swiper-pagination tariffs-slider__pagination"></div>
+            <div class="col-xl-3 col-md-6 col-12 step-wrapper">
+              <div class="tariff-slide step">
+                <div class="tariffs-slider__inner step__inner">
+                  <p class="tariffs-slider__item-title step__title">2</p>
+                  <p class="tariffs-slider__item-title tariffs-slider__item-subtitle">Разработка</p>
+                  <p class="tariffs-slider__item-text">Готовим проекта договора, уточненяем детали, выявляем подходящие вариантов урегулирования взаимоотношений с контрагентами. </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-12 step-wrapper">
+              <div class="tariff-slide step">
+                <div class="tariffs-slider__inner step__inner">
+                  <p class="tariffs-slider__item-title step__title">3</p>
+                  <p class="tariffs-slider__item-title tariffs-slider__item-subtitle">Согласование</p>
+                  <p class="tariffs-slider__item-text">Согласовываем проект договора, утверждаем и вносим правки, выявленные «по ходу» разработки проекта.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-12 step-wrapper">
+              <div class="tariff-slide step">
+                <div class="tariffs-slider__inner step__inner">
+                  <p class="tariffs-slider__item-title step__title">4</p>
+                  <p class="tariffs-slider__item-title tariffs-slider__item-subtitle">Утверждение</p>
+                  <p class="tariffs-slider__item-text">Внедряем финальные правки и замечания. Согласовываем финальный вариант документа. Выставляем счет для оплаты работ.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="step__btn-wrapper">
+                <button class="step__btn btn js-modal-open">Заказать услугу</button>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="step__btn-wrapper">
+                <a href="#examples" class="step__link">Примеры из практики</a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
+      <div class="section remote">
+        <div class="container">
+          <div class="row section__row">
+            <div class="col-md-5 remote-col">
+              <p class="section__title title remote__title">
+                Мы прододжаем работать <br>
+                <span class="title--blue">дистанционно</span>!
+              </p>
+              <p class="section__text">
+                В это тяжелое для всех время мы призываем оставаться дома, чтобы защитить себя и близких.
+                А чтобы безопасно осуществлять услуги для Вас — мы переходим на онлайн-формат работы.
+              </p>
+              <button class="btn blue-btn remote__btn js-modal-open">Заказать обратный звонок</button>
+            </div>
+            <div class="col-md-6">
+              <ul class="remote__list">
+                <li class="remote__list-item">
+                  <img src="./assets/img/phone.png" width="68" height="68" alt="Консультации" class="remote__list-img">
+                  <div class="remote__list-right">
+                    <p class="remote__list-title">Консультации</p>
+                    <p class="remote__list-text">По телефону: <a href="tel:+79269357966" class="remote__list-link">+7 (926) 935-79-66</a></p>
+                    <p class="remote__list-text">По почте: <a href="mailto:a.erzin@erzin-nemov.ru" class="remote__list-link">a.erzin@erzin-nemov.ru</a></p>
+                    <p class="remote__list-text">Обратный звонок: <button class="js-modal-open remote__list-link remote__list-link--btn">Заказать</button></p>
+                  </div>
+                </li>
+                <li class="remote__list-item">
+                  <img src="./assets/img/meeting.png" width="68" height="68" alt="Встречи и согласования" class="remote__list-img">
+                  <div class="remote__list-right">
+                    <p class="remote__list-title">Встречи и согласования</p>
+                    <p class="remote__list-text">Удобным для Вас способом через онлайн-площадки и сервисы: Skype, Zoom.</p>
+                  </div>
+                </li>
+                <li class="remote__list-item">
+                  <img src="./assets/img/bill.png" width="68" height="68" alt="" class="remote__list-img">
+                  <div class="remote__list-right">
+                    <p class="remote__list-title">Результат и оплата</p>
+                    <p class="remote__list-text">Все результаты работы высылаем Вам на e-mail. Оплата производится безналичным расчётом.</p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
       <section class="result section">
         <div class="container">
-          <div class="row">
-            <h2 class="title section__title result__title col-md-6">Полное погружение в <span class="title--blue">процесс</span> дела и ориентация на <span class="title--blue">результат</span></h2>
+          <div class="row section__row">
+            <h2 data-letter="Z" class="title section__title result__title col-md-5">Полное погружение в <span class="title--blue">процесс</span> дела и ориентация на <span class="title--blue">результат</span></h2>
+            <div class="col-md-6"></div>
           </div>
-          <div class="row">
-            <div class="col-md-6 col-12">
+          <div class="row section__row">
+            <div class="col-md-5 col-12">
               <p class="section__text">
                 Вы можете быть полностью уверены в фундаментальном подходе к Вашему делу. 
               </p>
@@ -224,126 +237,83 @@
       </section>
       <section id="examples" class="examples section" aria-labelledby="heading-examples">
         <div class="container">
-          <div class="row">
+          <div class="row section__row">
             <div class="col-md-5">
-              <h2 class="section__title title"> <span class="title--blue">Яркие</span> примеры выполненных работ</h2>
+              <h2 data-letter="I" class="example__title section__title title"> <span class="title--blue">Яркие</span> примеры выполненных работ</h2>
             </div>
-            <div class="col-md-7">
+            <div class="col-md-6">
               <div class="examples__results">
-                <div class="examples__results-item">
-                  <p class="examples__results-title">20+</p>
-                  <p class="examples__results-subtitle">Успешных проектов в банкротстве</p>
-                </div>
-                <div class="examples__results-item">
-                  <p class="examples__results-title">2 млрд руб.</p>
-                  <p class="examples__results-subtitle">Cамая крупная сумма, «изъятая» из реестра требований</p>
+                <div class="examples__results-item examples__results-item--reverse">
+                  <p class="examples__results-title">30%</p>
+                  <p class="examples__results-subtitle">Новый договор снижает количество судебных споров более чем на:</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="row">
-            <div class="col-md-5">
-              <ul class="examples__list">
-                <li class="examples__list-item examples__list-item--active">
-                  <span class="example__list-title">Услуга</span> 
-                  <button data-counter="1" class="btn examples__list-btn">Наблюдение</button>
-                </li>
-                <li class="examples__list-item">
-                  <span class="example__list-title">Услуга</span> 
-                  <button data-counter="2" class="btn examples__list-btn">Конкурсное производство</button>
-                </li>
-                <li class="examples__list-item">
-                  <span class="example__list-title">Услуга</span> 
-                  <button data-counter="3" class="btn examples__list-btn">Упрощенное производство</button>
-                </li>
-                <li class="examples__list-item">
-                  <span class="example__list-title">Услуга</span> 
-                  <button data-counter="4" class="btn examples__list-btn">Оспаривание сделок</button>
-                </li>
-              </ul>
-            </div>
-            <div class="col-md-7">
-              <div class="examples__slider-content">
-                <div class="examples__slider">
-                  <div class="swiper-container examples__slider-container">
-                    <div class="swiper-wrapper examples__slider-wrapper">
-                      <div class="swiper-slide examples__slider-item">
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-title">Дело № 10АП-15286/2019 (А41-60456)</p>
-                          <a href="#" class="examples__slider-link">Судебный акт</a>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Суть дела</b><br>
-                            Суд отказал кредитору по договору займа во включении в реестр поскольку кредитор вовремя не принес в суд первичную документацию. В период, пока дело передавали в апелляцию нами были обнаружены доказательства аффилированности таких кредиторов (в том числе, через брачные связи). В результате удалось убедить суд апелляционной инстанции приобщить к материалам дела новые доказательства, которые легли в основу решения.
-                          </p>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Результат</b><br>
-                            Определение суда первой инстанции об отказе во включении оставлено без изменения, апелляционная жалоба аффилированного кредитора - без удовлетворения, а 80 000 000 рублей не попали в реестр требований (Постановление 10 арбитражного апелляционного суда от 13 декабря 2019 года по делу №А41-60456/18).
-                          </p>
-                        </div>
-                      </div>
-                      <div class="swiper-slide examples__slider-item">
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-title">Дело № 10АП-15286/2019 (А41-60456)</p>
-                          <a href="#" class="examples__slider-link">Судебный акт</a>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Суть дела</b><br>
-                            Суд отказал кредитору по договору займа во включении в реестр поскольку кредитор вовремя не принес в суд первичную документацию. В период, пока дело передавали в апелляцию нами были обнаружены доказательства аффилированности таких кредиторов (в том числе, через брачные связи). В результате удалось убедить суд апелляционной инстанции приобщить к материалам дела новые доказательства, которые легли в основу решения.
-                          </p>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Результат</b><br>
-                            Определение суда первой инстанции об отказе во включении оставлено без изменения, апелляционная жалоба аффилированного кредитора - без удовлетворения, а 80 000 000 рублей не попали в реестр требований (Постановление 10 арбитражного апелляционного суда от 13 декабря 2019 года по делу №А41-60456/18).
-                          </p>
-                        </div>
-                      </div>
-                      <div class="swiper-slide examples__slider-item">
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-title">Дело № 10АП-15286/2019 (А41-60456)</p>
-                          <a href="#" class="examples__slider-link">Судебный акт</a>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Суть дела</b><br>
-                            Суд отказал кредитору по договору займа во включении в реестр поскольку кредитор вовремя не принес в суд первичную документацию. В период, пока дело передавали в апелляцию нами были обнаружены доказательства аффилированности таких кредиторов (в том числе, через брачные связи). В результате удалось убедить суд апелляционной инстанции приобщить к материалам дела новые доказательства, которые легли в основу решения.
-                          </p>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Результат</b><br>
-                            Определение суда первой инстанции об отказе во включении оставлено без изменения, апелляционная жалоба аффилированного кредитора - без удовлетворения, а 80 000 000 рублей не попали в реестр требований (Постановление 10 арбитражного апелляционного суда от 13 декабря 2019 года по делу №А41-60456/18).
-                          </p>
-                        </div>
-                      </div>
-                      <div class="swiper-slide examples__slider-item">
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-title">Дело № 10АП-15286/2019 (А41-60456)</p>
-                          <a href="#" class="examples__slider-link">Судебный акт</a>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Суть дела</b><br>
-                            Суд отказал кредитору по договору займа во включении в реестр поскольку кредитор вовремя не принес в суд первичную документацию. В период, пока дело передавали в апелляцию нами были обнаружены доказательства аффилированности таких кредиторов (в том числе, через брачные связи). В результате удалось убедить суд апелляционной инстанции приобщить к материалам дела новые доказательства, которые легли в основу решения.
-                          </p>
-                        </div>
-                        <div class="examples__slider-row">
-                          <p class="examples__slider-text">
-                            <b class="examples__slider-text--title">Результат</b><br>
-                            Определение суда первой инстанции об отказе во включении оставлено без изменения, апелляционная жалоба аффилированного кредитора - без удовлетворения, а 80 000 000 рублей не попали в реестр требований (Постановление 10 арбитражного апелляционного суда от 13 декабря 2019 года по делу №А41-60456/18).
-                          </p>
-                        </div>
-                      </div>
+            <div class="col-lg-9">
+              <div class="examples__tabs">
+                <div class="examples__tabs-nav">
+                  <button class="examples__tabs-btn examples__tabs-btn--active">Договор</button>
+                  <button class="examples__tabs-btn">Публичная оферта</button>
+                </div>
+                <div class="examples__tabs-content">
+                  <div class="examples__tabs-wrapper">
+                    <p class="examples__tabs-text">
+                      Ошибки есть в любых договорах, вне зависимости от того, откуда договор был взят
+                      или от того кто готовил его проект. Например, крупный медиа-холдинг Актион-МЦФЭР рекомендует дистрибьюторам своей продукции типовой договор, предмет которого сформулирован вот так:
+                    </p>
+                    <div class="examples__tabs-quotes">
+                      <p class="examples__tabs-quotes-title">
+                        1. ПРЕДМЕТ ДОГОВОРА
+                      </p>
+                      <p class="examples__tabs-quotes-text">
+                        1.1 По настоящему Договору Продавец обязуется передать в собственность Покупателю Комплект Системы, а также право на пользование сервисом «Горячая линия», а Покупатель обязуется принять этот Комплект Системы и оплатить в соответствии с условиями настоящего Договора.
+                      </p>
                     </div>
+                    <p class="examples__tabs-text">
+                      Понять, что это за договор по правовой природе невозможно. Один суд признал его
+                      договором поставки – Решение Арбитражного суда Омской области от 14.07.2017 г. по
+                      делу А46-6207/2017, другие – договором оказания услуг – Постановление Восьмого
+                      арбитражного апелляционного суда от 26 сентября 2017 г. по делу №08АП-10670/2017,
+                      Решение Арбитражного суда города Москвы от 24.04.2019 по делу №А40-17251/2019.
+                      На деле – они продают неисключительные права на использование баз данных и такие
+                      отношения должны регулироваться лицензионным договором. Мы полностью переделали договор для шести компаний и количество разногласий с контрагентами уменьшилось, а в тех случаях, где клиент «остался недоволен» самой системой после того как ей пользовался, пропали основания для возврата денежных средств недобросовестным контрагентам.  
+                    </p>
+                  </div>
+                  <div class="examples__tabs-wrapper examples__tabs-wrapper--hidden">
+                    <p class="examples__tabs-text">
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus iste deserunt dicta placeat laudantium explicabo voluptatibus omnis magnam alias eos veritatis minus, labore optio deleniti impedit tempore dolorum id. Optio.
+                    </p>
+                    <div class="examples__tabs-quotes">
+                      <p class="examples__tabs-quotes-title">
+                        1. ПРЕДМЕТ ДОГОВОРА
+                      </p>
+                      <p class="examples__tabs-quotes-text">
+                        1.1 По настоящему Договору Продавец обязуется передать в собственность Покупателю Комплект Системы, а также право на пользование сервисом «Горячая линия», а Покупатель обязуется принять этот Комплект Системы и оплатить в соответствии с условиями настоящего Договора.
+                      </p>
+                    </div>
+                    <p class="examples__tabs-text">
+                      Понять, что это за договор по правовой природе невозможно. Один суд признал его
+                      договором поставки – Решение Арбитражного суда Омской области от 14.07.2017 г. по
+                      делу А46-6207/2017, другие – договором оказания услуг – Постановление Восьмого
+                      арбитражного апелляционного суда от 26 сентября 2017 г. по делу №08АП-10670/2017,
+                      Решение Арбитражного суда города Москвы от 24.04.2019 по делу №А40-17251/2019.
+                      На деле – они продают неисключительные права на использование баз данных и такие
+                      отношения должны регулироваться лицензионным договором. Мы полностью переделали договор для шести компаний и количество разногласий с контрагентами уменьшилось, а в тех случаях, где клиент «остался недоволен» самой системой после того как ей пользовался, пропали основания для возврата денежных средств недобросовестным контрагентам.  
+                    </p>
                   </div>
                 </div>
               </div>
-              <div class="examples-pagination"></div>
+            </div>
+            <div class="col-lg-3">
+              <div class="examples__banner">
+                <div class="examples__banner-wrapper">
+                  <img src="./assets/img/example-man.png" alt="Юрист" class="examples__banner-img">
+                  <p class="example__banner-title">Разработаем качественный проект договора или публичной оферты</p>
+                  <button class="btn blue-btn remote__btn js-modal-open">Заказать</button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -351,35 +321,30 @@
       <section id="testimonials" class="testimonials section" aria-labelledby="heading-testimonials">
         <div class="container">
           <div class="row">
-            <div class=" title testimonials__title col">Письма <span class="title--blue">благодарности</span> от наших клиентов и партнёров</div>
+            <div data-letter="N" class="section__title section__title--bg title testimonials__title col">Письма <span class="title--blue">благодарности</span> от наших клиентов и партнёров</div>
           </div>
         </div>
-        <div class="container">
-          <div class="row">
-            <div class="col">
+        <div>
+          <div>
+            <div>
               <div class="testimonials__slider">
                 <div class="swiper-container testimonials__slider-container">
-                  <div class="swiper-wrapper testimonials__slider-wrapper">
-                    <div class="swiper-slide testimonials__slider-slide">
-                      <a href="#" class="testimonials__slider-slide-link">
-                        <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-1.jpg" alt="Письмо благодарности">
-                      </a>
-                    </div>
-                    <div class="swiper-slide testimonials__slider-slide">
-                      <a href="#" class="testimonials__slider-slide-link">
-                        <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-2.jpg" alt="Письмо благодарности">
-                      </a>
-                    </div>
-                    <div class="swiper-slide testimonials__slider-slide">
-                      <a href="#" class="testimonials__slider-slide-link">
-                        <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-3.jpg" alt="Письмо благодарности">
-                      </a>
-                    </div>
-                    <div class="swiper-slide testimonials__slider-slide">
-                      <a href="#" class="testimonials__slider-slide-link">
-                        <img class="testimonials__slider-slide-image lazyload" data-src="assets/img/testimonials-4.jpg" alt="Письмо благодарности">
-                      </a>
-                    </div>
+                  <div id="lightgallery" class="swiper-wrapper testimonials__slider-wrapper">
+                    <a href="./assets/img/otzyv-1@2x.jpg" class="testimonials__slider-slide-link swiper-slide testimonials__slider-slide">
+                      <img class="testimonials__slider-slide-image lazyload" data-src="./assets/img/otzyv-1@2x.jpg" alt="Письмо благодарности">
+                    </a>
+                    <a href="./assets/img/otzyv-2@2x.jpg" class="testimonials__slider-slide-link swiper-slide testimonials__slider-slide">
+                      <img class="testimonials__slider-slide-image lazyload" data-src="./assets/img/otzyv-2@2x.jpg" alt="Письмо благодарности">
+                    </a>
+                    <a href="./assets/img/otzyv-3@2x.jpg" class="testimonials__slider-slide-link swiper-slide testimonials__slider-slide">
+                      <img class="testimonials__slider-slide-image lazyload" data-src="./assets/img/otzyv-3@2x.jpg" alt="Письмо благодарности">
+                    </a>
+                    <a href="./assets/img/otzyv-4@2x.jpg" class="testimonials__slider-slide-link swiper-slide testimonials__slider-slide">
+                      <img class="testimonials__slider-slide-image lazyload" data-src="./assets/img/otzyv-4@2x.jpg" alt="Письмо благодарности">
+                    </a>
+                    <a href="./assets/img/otzyv-5@2x.jpg" class="testimonials__slider-slide-link swiper-slide testimonials__slider-slide">
+                      <img class="testimonials__slider-slide-image lazyload" data-src="./assets/img/otzyv-5@2x.jpg" alt="Письмо благодарности">
+                    </a>
                   </div>
                 </div>
                 <div class="testimonials-pagination swiper-pagination"></div>
@@ -393,7 +358,7 @@
           <div class="row">
             <div class="col-md-7">
               <p class="section__title title">
-                Можем начать совместную работу уже сегодня
+                Можем начать совместную <br> работу уже сегодня
               </p>
             </div>
             <div class="col-md-5">
@@ -439,14 +404,14 @@
         <div class="row">
           <div class="col-md-3">
             <a href="/" class="logo footer__logo">
-              <img loading="lazy" data-src="assets/img/logo.png" alt="" class="logo__img footer__logo-img lazyload">
+              <img loading="lazy" data-src="assets/img/logo.svg" alt="" class="logo__img footer__logo-img lazyload">
             </a>
           </div>
           <div class="col-md-3">
             <a href="#" class="footer__link">Часто задаваемые вопросы</a>
           </div>
           <div class="col-md-3">
-            <a href="#" class="footer__link">Политика конфеденциальности</a>
+            <a target="_blank" href="https://yadi.sk/i/SUWwTkRMVR-G1w" class="footer__link">Политика конфеденциальности</a>
           </div>
           <div class="col-md-3">
             <a href="tel:79269357966" class="footer__link footer__link--white">+7 (926) 935-79-66</a>
@@ -486,7 +451,7 @@
             </div>
             <div class="form__label-wrapper form__label-wrapper-checkbox">
               <input class="visually-hidden checkbox" id="form__modal-checkbox" type="checkbox">
-              <label class="checkbox-label modal__form-label modal__form-label--subtext" for="form__modal-checkbox">Принимаю условия политики конфиденциальности</label>
+              <label class="checkbox-label modal__form-label modal__form-label--subtext" for="form__modal-checkbox">Принимаю условия политики &nbsp;<a class="form__modal-link" target="_blank" href="https://yadi.sk/i/SUWwTkRMVR-G1w"> конфиденциальности</a></label>
               <span class="error-checkbox hidden">Необходимо ваше согласие</span>
             </div>
             <button class="modal__form-submit" type="submit">Отправить</button>

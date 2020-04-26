@@ -198,6 +198,10 @@
   position: relative;
   box-shadow: 0 -18px 50px rgba(0, 0, 0, 0.16);
 
+  &:focus {
+    outline: unset;
+  }
+
   &::before {
     content: "";
     display: block;

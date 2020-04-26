@@ -22,8 +22,8 @@ $email = $_POST['email'];
 $phone = $_POST['phone'];
 $additional = $_POST['additional']
 
-$sender = "spirin2205@yandex.ru";
-//ini_set("SMTP", "mail.damacrussia.ru");
+$sender = "postmaster@erzin.moscow";
+ini_set("SMTP", "postmaster@erzin.moscow");
 ini_set("sendmail_from", $sender);
 
 $headers = "MIME-Version: 1.0\n";

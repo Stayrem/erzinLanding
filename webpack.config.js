@@ -55,12 +55,12 @@ module.exports = {
     ]
   },
   plugins: [
-    new HtmlWebpackPlugin({
+    /*new HtmlWebpackPlugin({
       filename: `index.html`,
       template: path.join(__dirname, "/src/index.html"),
-    }),
+    }),*/
     new HtmlWebpackPlugin({
-      filename: `contracts.html`,
+      filename: `index.html`,
       template: path.join(__dirname, "/src/contracts.html"),
     }),
     new CopyWebpackPlugin([{

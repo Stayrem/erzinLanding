@@ -24,14 +24,14 @@ const tariffsSlider = () => {
     }
     const onResize = () => {
       screenWidth = window.innerWidth;
-      if ( screenWidth <= mediaWidth.DESKTOP) {
+      if ( screenWidth <= 1400) {
         initSlider();
       } else {
         initSlider(true);
       }
     }
   
-    if ( screenWidth <= mediaWidth.DESKTOP ) {
+    if ( screenWidth <= 1400) {
       initSlider();
     }
     window.addEventListener(`resize`, debouce(onResize, 300));
