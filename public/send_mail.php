@@ -20,7 +20,7 @@ function send_success($text = 'OK') {
 $name = $_POST['name'];
 $email = $_POST['email'];
 $phone = $_POST['phone'];
-$additional = $_POST['additional']
+$additional = $_POST['additional'];
 
 $sender = "postmaster@erzin.moscow";
 ini_set("SMTP", "postmaster@erzin.moscow");
