@@ -30,7 +30,7 @@ class formController {
   formSender() {
     if(this.validateInputs() && this.validateCheckbox()) {
       const formData = new FormData($form);
-      axios.post(`https://echo.htmlacademy.ru/courses`, formData)
+      axios.post(`/send_mail.php`, formData)
       .then(() => {
         this.showSuccess();
         this.formReset();

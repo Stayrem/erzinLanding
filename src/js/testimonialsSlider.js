@@ -3,25 +3,37 @@ import {mediaWidth} from './constants.js';
 import debouce from 'lodash/debounce.js';
 
 const testimonialsSlider = () => {
-  const slider = new Swiper ('.testimonials__slider-container', {
-      slidesPerView: 1,
-      spaceBetween: 30,
-      freeMode: true,
-      breakpoints: {
-        768: {
-          slidesPerView: 2,
-          spaceBetween: 40,
+  const sliderContainer = document.querySelector(`.testimonials__slider-container`);
+  if (sliderContainer !== null) {
+    let screenWidth = window.innerWidth;
+    const initSlider = (arg = false) => {
+      const slider = new Swiper ('.testimonials__slider-container', {     
+        slidesPerView: 'auto',
+        centeredSlides: true,
+        spaceBetween: 30,
+        effect: `slide`,
+        pagination: {
+          el: '.testimonials-pagination ',
+          clickable: true,
+          },
         },
-        992: {
-          slidesPerView: 3,
-          spaceBetween: 25,
-        },
-      },
-      pagination: {
-      el: '.testimonials-pagination ',
-      clickable: true,
-        },
-      },
-  );
+      );
+  
+      arg ? slider.destroy() : slider.slideTo(1, 600);
+    }
+    const onResize = () => {
+      screenWidth = window.innerWidth;
+      if ( screenWidth <= mediaWidth.DESKTOP) {
+        initSlider();
+      } else {
+        initSlider(true);
+      }
+    }
+  
+    if ( screenWidth <= mediaWidth.DESKTOP ) {
+      initSlider();
+    }
+    window.addEventListener(`resize`, debouce(onResize, 300));
+  }
 }
 export default testimonialsSlider;
