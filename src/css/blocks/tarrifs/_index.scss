@@ -145,11 +145,10 @@
   margin: 0 auto;
   max-width: 1200px;
   display: flex;
-  justify-content: space-around;
 }
 
 .tariffs-slider__pagination {
-  display: none;
+  display: flex;
   margin-top: 20px;
   width: 100%;
 
@@ -161,16 +160,6 @@
   .swiper-pagination-bullet.swiper-pagination-bullet-active {
     background-color: $color-pure-blue;
     opacity: unset;
-  }
-}
-
-@media (max-width: $media-desktop) {
-  .tariffs-slider__wrapper {
-    justify-content: unset;
-  }
-
-  .tariffs-slider__pagination {
-    display: block;
   }
 }
 

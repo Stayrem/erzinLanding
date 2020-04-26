@@ -178,6 +178,11 @@ body {
   overflow-y: hidden;
 }
 
+.blue-link {
+  @include reset-link();
+  color: $color-pure-blue;
+}
+
 @media (min-width: $media-desktop) {
   .js-transition-off {
     transform: unset !important;

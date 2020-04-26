@@ -45,7 +45,7 @@ module.exports = {
         }]
       },
       {
-        test: /\.(png|jpe?g|gif|svg)$/i,
+        test: /\.(png|jpe?g|gif|svg|ico)$/i,
         exclude: `/node_modules/`,
         use: [{
           loader: `file-loader`,
@@ -66,7 +66,7 @@ module.exports = {
     new CopyWebpackPlugin([{
         flatten: true,
         context: SRC,
-        from: '**/*.{jp?(e)g,png,svg,gif,webp}',
+        from: '**/*.{jp?(e)g,png,svg,gif,webp,ico}',
         to: path.join(ASSETS, 'img')
       },
       {
