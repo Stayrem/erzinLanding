@@ -10,7 +10,7 @@
   "author": "Dmitry Spirin",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap-4-grid": "^3.4.0",
     "eslint": "^6.8.0",
     "imagemin-mozjpeg": "^8.0.0",
